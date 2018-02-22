@@ -1,1 +1,2 @@
-
+### PASCAL VOC 2012
+The PASCAL VOC 2012 segmentation benchmark involves 20 foreground object classes and one background class. The original dataset contains 1,464(train),1, 449 (val), and 1, 456 (test) pixel-level labeled images for training, validation, and testing, respectively. The datasets is augmented by the extra annotations provided by [36], resulting in 10, 582 (train-aug) training images. The performance is measured in terms of pixel intersection-over-union (IoU) averaged across the 21 classes.
