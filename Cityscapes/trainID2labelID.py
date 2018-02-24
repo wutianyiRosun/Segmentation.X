@@ -1,6 +1,6 @@
 # Feb 2017
 # wutianyi
-#  converting trainIDs to labelIDs for evaluating the test set segmenatation results of the cityscapes dataset
+# converting trainIDs to labelIDs for evaluating the test set segmenatation results of the cityscapes dataset
 
 import numpy as np
 import os
@@ -34,6 +34,6 @@ def trainIDs2LabelID(trainID_png_dir, save_dir):
 
 
 if __name__ == '__main__':
-     trainID_png_dir  = '/ExternalDisk2/wty/Segmentation/mc_results/Train_FT_cityscapes_Kdlyconv_v2_trainval_513/val/pspnet101_713/color'
+     trainID_png_dir  = '/ExternalDisk2/wty/Segmentation/mc_results/Train_FT_cityscapes_Kdlyconv_v2_trainval_513/color'
      save_dir =  '/ExternalDisk2/wty/Segmentation/labelIDresultTest111/'
      trainIDs2LabelID(trainID_png_dir, save_dir)
