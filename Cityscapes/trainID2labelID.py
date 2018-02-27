@@ -7,7 +7,7 @@ import os
 from PIL import Image
 
 #index: trainId from 0 to 18, 19 semantic class   val: labelIDs
-cityscapes_trainIds2labelIds = np.array([7, 8, 11, 12, 13, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 31, 32, 33], dtype=np.int8)
+cityscapes_trainIds2labelIds = np.array([7, 8, 11, 12, 13, 17, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 31, 32, 33], dtype=np.uint8)
 
 def trainIDs2LabelID(trainID_png_dir, save_dir):
     print('save_dir:  ',save_dir)
@@ -23,7 +23,7 @@ def trainIDs2LabelID(trainID_png_dir, save_dir):
         pngdata = np.array(image)
         trainID = pngdata  #model prediction
         row, col = pngdata.shape 
-        labelID = np.zeros( (row , col), dtype=np.int8 )
+        labelID = np.zeros( (row , col), dtype=np.uint8 )
         for i in range(row):
             for j in range(col):
                 labelID[i][j] =  cityscapes_trainIds2labelIds[ trainID[i][j] ]
