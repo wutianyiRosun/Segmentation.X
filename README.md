@@ -20,7 +20,7 @@
       + [Adaptive Affinity Fields for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jyh-Jing_Hwang_Adaptive_Affinity_Field_ECCV_2018_paper.pdf)
       + [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liang-Chieh_Chen_Encoder-Decoder_with_Atrous_ECCV_2018_paper.pdf)
     
-   - other 18'conferences
+   - Other 18'conferences
       + [RelationNet: Learning Deep-Aligned Representation for Semantic Image Segmentation](https://ieeexplore.ieee.org/document/8545708) [ICPR]
       + [High Resolution Feature Recovering for Accelerating Urban Scene Parsing](https://www.ijcai.org/proceedings/2018/0161.pdf) [IJCAI]
       + [Mix-and-Match Tuning for Self-Supervised Semantic Segmentation](https://arxiv.org/abs/1712.00661) [AAAI]
