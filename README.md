@@ -8,6 +8,7 @@
       + [Learning a Discriminative Feature Network for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Learning_a_Discriminative_CVPR_2018_paper.pdf)
       + [Context Encoding for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf)
       + [Dynamic-structured Semantic Propagation Network](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liang_Dynamic-Structured_Semantic_Propagation_CVPR_2018_paper.pdf)
+      + [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bulo_In-Place_Activated_BatchNorm_CVPR_2018_paper.pdf)
       
    - ECCV 2018 
       + [Multi-Scale Context Intertwining for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
@@ -16,6 +17,9 @@
       + [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
       + [PSANet: Point-wise Spatial Attention Network for Scene Parsing](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
       + [Adaptive Affinity Fields for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jyh-Jing_Hwang_Adaptive_Affinity_Field_ECCV_2018_paper.pdf)
+    
+   - other conferences
+      + [RelationNet: Learning Deep-Aligned Representation for Semantic Image Segmentation](https://ieeexplore.ieee.org/document/8545708) [ICPR]
    
    
 ### Semantic segmentation
