@@ -15,11 +15,31 @@
       + [Unified Perceptual Parsing for Scene Understanding](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tete_Xiao_Unified_Perceptual_Parsing_ECCV_2018_paper.pdf)
       + [ExFuse: Enhancing Feature Fusion for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenli_Zhang_ExFuse_Enhancing_Feature_ECCV_2018_paper.pdf)
       + [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
+      + [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sachin_Mehta_ESPNet_Efficient_Spatial_ECCV_2018_paper.pdf)
       + [PSANet: Point-wise Spatial Attention Network for Scene Parsing](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
       + [Adaptive Affinity Fields for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jyh-Jing_Hwang_Adaptive_Affinity_Field_ECCV_2018_paper.pdf)
+      + [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liang-Chieh_Chen_Encoder-Decoder_with_Atrous_ECCV_2018_paper.pdf)
     
-   - other conferences
+   - other 18'conferences
       + [RelationNet: Learning Deep-Aligned Representation for Semantic Image Segmentation](https://ieeexplore.ieee.org/document/8545708) [ICPR]
+      + [High Resolution Feature Recovering for Accelerating Urban Scene Parsing](https://www.ijcai.org/proceedings/2018/0161.pdf) [IJCAI]
+      + [Mix-and-Match Tuning for Self-Supervised Semantic Segmentation](https://arxiv.org/abs/1712.00661) [AAAI]
+      + [Spatial As Deep: Spatial CNN for Traffic Scene Understanding
+Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
+      + [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images.pdf) [NIPS]
+      + [DifNet: Semantic Segmentation by Diffusion Networks](https://papers.nips.cc/paper/7435-difnet-semantic-segmentation-by-diffusion-networks.pdf) [NIPS]
+      + [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction.pdf) [NIPS]
+      
+   - ArXiv
+      + [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://arxiv.org/abs/1812.01593)
+      + [Evaluating Bayesian Deep Learning Methods for Semantic Segmentation](https://arxiv.org/abs/1811.12709)
+      + [Graph-Based Global Reasoning Networks](https://arxiv.org/abs/1811.12814)
+      + [ShelfNet for Real-time Semantic Segmentation, Multi-path segmentation network](https://arxiv.org/abs/1811.11254)
+      + [CCNet: Criss-Cross Attention for Semantic Segmentation](https://arxiv.org/abs/1811.11721)
+      + [Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983)
+      + [Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1803.02563)
+      + [Locally Adaptive Learning Loss for Semantic Image Segmentation](https://arxiv.org/abs/1802.08290)
+      + [RTSEG: REAL-TIME SEMANTIC SEGMENTATION COMPARATIVE STUDY](https://arxiv.org/abs/1803.02758)
    
    
 ### Semantic segmentation
