@@ -4,7 +4,7 @@
   - CVPR 2018 
       + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
       + [Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Context_Contrasted_Feature_CVPR_2018_paper.pdf)
-      +Recurrent Scene Parsing with Perspective Understanding in the Loop
+      + [Recurrent Scene Parsing with Perspective Understanding in the Loop](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0534.pdf)
       
       
 ### Semantic segmentation
