@@ -9,7 +9,15 @@
       + [Context Encoding for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf)
       + [Dynamic-structured Semantic Propagation Network](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liang_Dynamic-Structured_Semantic_Propagation_CVPR_2018_paper.pdf)
       
-      
+   - ECCV 2018 
+      + [Multi-Scale Context Intertwining for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
+      + [Unified Perceptual Parsing for Scene Understanding](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tete_Xiao_Unified_Perceptual_Parsing_ECCV_2018_paper.pdf)
+      + [ExFuse: Enhancing Feature Fusion for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenli_Zhang_ExFuse_Enhancing_Feature_ECCV_2018_paper.pdf)
+      + [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
+      + [PSANet: Point-wise Spatial Attention Network for Scene Parsing](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
+      + [Adaptive Affinity Fields for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jyh-Jing_Hwang_Adaptive_Affinity_Field_ECCV_2018_paper.pdf)
+   
+   
 ### Semantic segmentation
 
 ### Semantic segmentation
