@@ -1,6 +1,6 @@
-# Awesome Semantic Segmentation
+# Semantic Segmentation
 
-## Networks by architecture
+## 2018
   - CVPR 2018 
       + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
       + [Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Context_Contrasted_Feature_CVPR_2018_paper.pdf)
@@ -40,6 +40,9 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [Decoupled Spatial Neural Attention for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1803.02563)
       + [Locally Adaptive Learning Loss for Semantic Image Segmentation](https://arxiv.org/abs/1802.08290)
       + [RTSEG: REAL-TIME SEMANTIC SEGMENTATION COMPARATIVE STUDY](https://arxiv.org/abs/1803.02758)
+      + [OCNet: Object Context Network for Scene Parsing](https://arxiv.org/abs/1809.00916)
+      + [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/pdf/1811.08201.pdf)
+      + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf)
    
    
 ### Semantic segmentation
