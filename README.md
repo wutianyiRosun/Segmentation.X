@@ -1,6 +1,10 @@
 # Awesome Semantic Segmentation
 
 ## Networks by architecture
+  - CVPR 2018 
+  + DenseASPP for Semantic Segmentation in StreetScenes (http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
+### Semantic segmentation
+
 ### Semantic segmentation
 - U-Net [https://arxiv.org/pdf/1505.04597.pdf]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
