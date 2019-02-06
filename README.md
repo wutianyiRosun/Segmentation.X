@@ -97,8 +97,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
       + [Semantic Image Segmentation via Deep Parsing Network](http://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Semantic_Image_Segmentation_ICCV_2015_paper.pdf)
       + [Learning deconvolution network for semantic segmentation](http://openaccess.thecvf.com/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
       
-### Semantic segmentation
-
+      
 ### Semantic segmentation
 - U-Net [https://arxiv.org/pdf/1505.04597.pdf]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
@@ -106,20 +105,12 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 - DeepLab [https://arxiv.org/pdf/1606.00915.pdf]
 	+ https://github.com/isht7/pytorch-deeplab-resnet [PyTorch]
 	+ https://github.com/bermanmaxim/jaccardSegment [PyTorch]
-- FCN [https://arxiv.org/pdf/1605.06211.pdf]
-	+ https://github.com/wkentaro/pytorch-fcn [PyTorch]
-	+ https://github.com/ycszen/pytorch-seg [PyTorch]
-	+ https://github.com/Kaixhin/FCN-semantic-segmentation [PyTorch]
 - ENet [https://arxiv.org/pdf/1606.02147.pdf]
 - LinkNet [https://arxiv.org/pdf/1707.03718.pdf]
-- DenseNet [https://arxiv.org/pdf/1608.06993.pdf]
 - Tiramisu [https://arxiv.org/pdf/1611.09326.pdf]
 - DilatedNet [https://arxiv.org/pdf/1511.07122.pdf]
 - PixelNet [https://arxiv.org/pdf/1609.06694.pdf]
-- ICNet [https://arxiv.org/pdf/1704.08545.pdf]
 - ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf]
-- RefineNet [https://arxiv.org/pdf/1611.06612.pdf]
-- PSPNet [https://arxiv.org/pdf/1612.01105.pdf,https://hszhao.github.io/projects/pspnet/]
 - Dilated convolution [https://arxiv.org/pdf/1511.07122.pdf]
 	+ https://github.com/fyu/drn#semantic-image-segmentataion [PyTorch]
 	+ https://github.com/hangzhaomit/semantic-segmentation-pytorch [PyTorch]
@@ -133,28 +124,18 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 	
 ### Instance aware segmentation
 - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
-	
 - MNC [https://arxiv.org/pdf/1512.04412.pdf]
-	
 - DeepMask [https://arxiv.org/pdf/1506.06204.pdf]
-	
 - SharpMask [https://arxiv.org/pdf/1603.08695.pdf]
-	
 - Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
-
 
   
 ## RNN
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
- 
 - ReSeg [https://arxiv.org/pdf/1511.07053.pdf]
   + https://github.com/Wizaron/reseg-pytorch [PyTorch]
-  
 - RIS [https://arxiv.org/pdf/1511.08250.pdf]
- 
-- CRF-RNN [http://www.robots.ox.ac.uk/%7Eszheng/papers/CRFasRNN.pdf]
   
-
 ## Graphical Models (CRF, MRF)
   + https://github.com/cvlab-epfl/densecrf
   + http://vladlen.info/publications/efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials/
@@ -208,12 +189,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + https://github.com/wkentaro/labelme
 
 
-  
-  
-
-  
-
-
+ 
 - Papers:
   + https://www2.warwick.ac.uk/fac/sci/dcs/people/research/csrkbb/tmi2016_ks.pdf
   + Sliding window approach
@@ -226,7 +202,6 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - https://github.com/beamandrew/medical-data
   
 ## Video segmentation
-
   + https://github.com/shelhamer/clockwork-fcn
   + https://github.com/JingchunCheng/Seg-with-SPN
 
