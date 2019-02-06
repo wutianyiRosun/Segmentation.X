@@ -78,12 +78,25 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
        + [Semantic Image Segmentation with Task-Specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform](http://openaccess.thecvf.com/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf)
    - ECCV 2016 
        + [Semantic Object Parsing with Graph LSTM](https://arxiv.org/abs/1603.07063)
+       + [Attention to Scale: Scale-aware Semantic Image Segmentation Liang-Chieh](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Attention_to_Scale_CVPR_2016_paper.pdf)
+       + [Efficient Piecewise Training of Deep Structured Models for Semantic
+Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficient_Piecewise_Training_CVPR_2016_paper.pdf)
 
    - Other 16'conferences
        + [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408)[NIPSW]
        + [Speeding up Semantic Segmentation for Autonomous Driving]()[NIPSW]
        
-       
+## 2015
+   - CVPR 2015 
+      + [Fully Convolutional Networks for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
+      + [Hypercolumns for Object Segmentation and Fine-grained Localization](http://openaccess.thecvf.com/content_cvpr_2015/papers/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.pdf)
+      + [Weakly supervised semantic segmentation for social images](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Weakly_Supervised_Semantic_2015_CVPR_paper.pdf)
+      + [Scene Labeling with LSTM Recurrent Neural Networks](http://openaccess.thecvf.com/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)
+      
+   - ICCV 2015
+      + [Semantic Image Segmentation via Deep Parsing Network](http://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Semantic_Image_Segmentation_ICCV_2015_paper.pdf)
+      + [Learning deconvolution network for semantic segmentation](http://openaccess.thecvf.com/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
+      
 ### Semantic segmentation
 
 ### Semantic segmentation
@@ -110,18 +123,12 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
 - Dilated convolution [https://arxiv.org/pdf/1511.07122.pdf]
 	+ https://github.com/fyu/drn#semantic-image-segmentataion [PyTorch]
 	+ https://github.com/hangzhaomit/semantic-segmentation-pytorch [PyTorch]
-- DeconvNet [https://arxiv.org/pdf/1505.04366.pdf]
-- FRRN [https://arxiv.org/pdf/1611.08323.pdf]
-- GCN [https://arxiv.org/pdf/1703.02719.pdf]
-	+ https://github.com/ycszen/pytorch-seg [PyTorch]
-- LRR [https://arxiv.org/pdf/1605.02264.pdf]
-- DUC, HDC [https://arxiv.org/pdf/1702.08502.pdf]
+
 	
 - MultiNet [https://arxiv.org/pdf/1612.07695.pdf]
 	+ https://github.com/MarvinTeichmann/MultiNet
 	+ https://github.com/MarvinTeichmann/KittiSeg
-- Segaware [https://arxiv.org/pdf/1708.04607.pdf]
-- Semantic Segmentation using Adversarial Networks [https://arxiv.org/pdf/1611.08408.pdf]
+
 - PixelDCN [https://arxiv.org/pdf/1705.06820.pdf]
 	
 ### Instance aware segmentation
@@ -134,15 +141,8 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
 - SharpMask [https://arxiv.org/pdf/1603.08695.pdf]
 	
 - Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
-	
-- RIS [https://arxiv.org/pdf/1511.08250.pdf]
-  
-- FastMask [https://arxiv.org/pdf/1612.08843.pdf]
- 
-- BlitzNet [https://arxiv.org/pdf/1708.02813.pdf]
 
-### Weakly-supervised segmentation
-- SEC [https://arxiv.org/pdf/1603.06098.pdf]
+
   
 ## RNN
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
@@ -208,26 +208,11 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
   + https://github.com/wkentaro/labelme
 
 
-## Metrics
-  + https://github.com/martinkersner/py_img_seg_eval
   
-## Other lists
-  + https://github.com/tangzhenyu/SemanticSegmentation_DL
-  + https://github.com/nightrome/really-awesome-semantic-segmentation
-  
-## Medical image segmentation:
-
-- DIGITS
-  + https://github.com/NVIDIA/DIGITS/tree/master/examples/medical-imaging
-  
-  
-- Cascaded-FCN
-  + https://github.com/IBBM/Cascaded-FCN
   
 
   
 
-  
 
 - Papers:
   + https://www2.warwick.ac.uk/fac/sci/dcs/people/research/csrkbb/tmi2016_ks.pdf
@@ -240,17 +225,10 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
    - https://camelyon16.grand-challenge.org/
    - https://github.com/beamandrew/medical-data
   
-
-
 ## Video segmentation
 
   + https://github.com/shelhamer/clockwork-fcn
   + https://github.com/JingchunCheng/Seg-with-SPN
-
-
-
-### Other
-
 
 
 ## Papers and Code (Older list)
@@ -272,19 +250,6 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
 - Nonparametric Scene Parsing via Label Transfer
 
   + http://people.csail.mit.edu/celiu/LabelTransfer/code.html
-  
-
-  
-## To look at
-  + https://github.com/fchollet/keras/issues/6538
-  + https://github.com/warmspringwinds/tensorflow_notes
-  + https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
-  + https://github.com/desimone/segmentation-models
-  + https://github.com/nightrome/really-awesome-semantic-segmentation
-  + https://github.com/kjw0612/awesome-deep-vision#semantic-segmentation
-  + http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/
-  + https://github.com/MichaelXin/Awesome-Caffe#23-image-segmentation
-
 
 ## Blog posts, other:
 
