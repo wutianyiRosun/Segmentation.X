@@ -45,7 +45,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [OCNet: Object Context Network for Scene Parsing](https://arxiv.org/abs/1809.00916)
       + [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/pdf/1811.08201.pdf)
       + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf)
-   
+  
 ## 2017
    - CVPR 2017 
       + [Convolutional RandomWalk Networks for Semantic Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bertasius_Convolutional_Random_Walk_CVPR_2017_paper.pdf)
@@ -54,6 +54,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [Loss Max-Pooling for Semantic Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bulo_Loss_Max-Pooling_for_CVPR_2017_paper.pdf)
       + [Semantic Segmentation via Structured Patch Prediction, Context CRF and Guidance CRF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf)
       + [Pyramid Scene Parsing Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.pdf)
+      + [Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pohlen_Full-Resolution_Residual_Networks_CVPR_2017_paper.pdf)
      
    - ICCV 2017 
        + [Deep Dual Learning for Semantic Image Segmentation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Luo_Deep_Dual_Learning_ICCV_2017_paper.pdf)
@@ -72,7 +73,17 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
    - ArXiv  
        + [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)
       
-      
+## 2016
+   - CVPR 2016 
+       + [Semantic Image Segmentation with Task-Specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform](http://openaccess.thecvf.com/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf)
+   - ECCV 2016 
+       + [Semantic Object Parsing with Graph LSTM](https://arxiv.org/abs/1603.07063)
+
+   - Other 16'conferences
+       + [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408)[NIPSW]
+       + [Speeding up Semantic Segmentation for Autonomous Driving]()[NIPSW]
+       
+       
 ### Semantic segmentation
 
 ### Semantic segmentation
