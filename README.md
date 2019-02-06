@@ -44,7 +44,19 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/pdf/1811.08201.pdf)
       + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf)
    
-   
+## 2017
+   - CVPR 2017 
+      + [Convolutional RandomWalk Networks for Semantic Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bertasius_Convolutional_Random_Walk_CVPR_2017_paper.pdf)
+      + [Dilated Residual Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Dilated_Residual_Networks_CVPR_2017_paper.pdf)
+      + [Learning Adaptive Receptive Fields for Deep Image Parsing Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wei_Learning_Adaptive_Receptive_CVPR_2017_paper.pdf)
+      + [Loss Max-Pooling for Semantic Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bulo_Loss_Max-Pooling_for_CVPR_2017_paper.pdf)
+      + [Semantic Segmentation via Structured Patch Prediction, Context CRF and Guidance CRF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf)
+      + [Pyramid Scene Parsing Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.pdf)
+      
+    - Other 17'conferences
+      + [Understanding Convolution for Semantic Segmentation](http://cseweb.ucsd.edu/~gary/pubs/panqu-wacv-2018.pdf)
+      
+      
 ### Semantic segmentation
 
 ### Semantic segmentation
