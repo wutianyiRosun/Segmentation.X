@@ -9,6 +9,7 @@
       + [Context Encoding for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf)
       + [Dynamic-structured Semantic Propagation Network](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liang_Dynamic-Structured_Semantic_Propagation_CVPR_2018_paper.pdf)
       + [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bulo_In-Place_Activated_BatchNorm_CVPR_2018_paper.pdf)
+      + [Error Correction for Dense Semantic Image Labeling](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Huang_Error_Correction_for_CVPR_2018_paper.pdf)
       
    - ECCV 2018 
       + [Multi-Scale Context Intertwining for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
@@ -17,6 +18,7 @@
       + [BiSeNet: Bilateral Segmentation Network for Real-time Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
       + [ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Sachin_Mehta_ESPNet_Efficient_Spatial_ECCV_2018_paper.pdf)
       + [PSANet: Point-wise Spatial Attention Network for Scene Parsing](http://openaccess.thecvf.com/content_ECCV_2018/papers/Changqian_Yu_BiSeNet_Bilateral_Segmentation_ECCV_2018_paper.pdf)
+      + [ICNet for Real-Time Semantic Segmentation on High-Resolution Images](http://openaccess.thecvf.com/content_ECCV_2018/papers/Hengshuang_Zhao_ICNet_for_Real-Time_ECCV_2018_paper.pdf)
       + [Adaptive Affinity Fields for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jyh-Jing_Hwang_Adaptive_Affinity_Field_ECCV_2018_paper.pdf)
       + [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liang-Chieh_Chen_Encoder-Decoder_with_Atrous_ECCV_2018_paper.pdf)
     
@@ -52,9 +54,23 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [Loss Max-Pooling for Semantic Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bulo_Loss_Max-Pooling_for_CVPR_2017_paper.pdf)
       + [Semantic Segmentation via Structured Patch Prediction, Context CRF and Guidance CRF](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Semantic_Segmentation_via_CVPR_2017_paper.pdf)
       + [Pyramid Scene Parsing Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.pdf)
+     
+    - ICCV 2017 
+      + [Deep Dual Learning for Semantic Image Segmentation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Luo_Deep_Dual_Learning_ICCV_2017_paper.pdf)
+      + [Semi Supervised Semantic Segmentation Using Generative Adversarial Network](http://openaccess.thecvf.com/content_ICCV_2017/papers/Souly__Semi_Supervised_ICCV_2017_paper.pdf)
+      + [Scale-adaptive Convolutions for Scene Parsing](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Scale-Adaptive_Convolutions_for_ICCV_2017_paper.pdf)
+      + [Predicting Deeper into the Future of Semantic Segmentation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf)
+      + [Segmentation-Aware Convolutional Networks Using Local Attention MaskS](http://openaccess.thecvf.com/content_ICCV_2017/papers/Harley_Segmentation-Aware_Convolutional_Networks_ICCV_2017_paper.pdf)
+      + [Dense and Low-Rank Gaussian CRFs Using Deep Embeddings Siddhartha](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chandra_Dense_and_Low-Rank_ICCV_2017_paper.pdf)
+      + [FoveaNet: Perspective-aware Urban Scene Parsing](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_FoveaNet_Perspective-Aware_Urban_ICCV_2017_paper.pdf)
       
     - Other 17'conferences
-      + [Understanding Convolution for Semantic Segmentation](http://cseweb.ucsd.edu/~gary/pubs/panqu-wacv-2018.pdf)
+      + [Understanding Convolution for Semantic Segmentation](http://cseweb.ucsd.edu/~gary/pubs/panqu-wacv-2018.pdf)[WACV]
+      + [Learning Affinity via Spatial Propagation Networks](https://papers.nips.cc/paper/6750-learning-affinity-via-spatial-propagation-networks.pdf)[NIPS]
+      + [Dual Path Networks](https://papers.nips.cc/paper/7033-dual-path-networks.pdf)[NIPS]
+      + [Semantic Segmentation with Reverse Attention](https://arxiv.org/abs/1707.06426)[BMVC]
+    - ArXiv  
+      + [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)
       
       
 ### Semantic segmentation
