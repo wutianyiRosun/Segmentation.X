@@ -93,8 +93,8 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - Other 16'conferences
        + [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408) [NIPSW]
        + [Speeding up Semantic Segmentation for Autonomous Driving]() [NIPSW]
-       + [ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation](https://arxiv.org/abs/1511.07053) [PyTorch]( https://github.com/Wizaron/reseg-pytorch)
-       + [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) [ICLR] [PyTorch](https://github.com/fyu/drn#semantic-image-segmentataion)
+       + [ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation](https://arxiv.org/abs/1511.07053) [[PyTorch]( https://github.com/Wizaron/reseg-pytorch)]
+       + [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) [ICLR] [[PyTorch](https://github.com/fyu/drn#semantic-image-segmentataion)]
        
    - ArXiv 
        + [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147)
@@ -179,17 +179,8 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
  
 
  
-- Papers:
-  + https://www2.warwick.ac.uk/fac/sci/dcs/people/research/csrkbb/tmi2016_ks.pdf
-  + Sliding window approach
-	  - http://people.idsia.ch/~juergen/nips2012.pdf
-  + https://github.com/albarqouni/Deep-Learning-for-Medical-Applications#segmentation
-	  
- - Data:
-   - https://luna16.grand-challenge.org/
-   - https://camelyon16.grand-challenge.org/
-   - https://github.com/beamandrew/medical-data
-  
+
+
 ## Video segmentation
   + https://github.com/shelhamer/clockwork-fcn
   + https://github.com/JingchunCheng/Seg-with-SPN
