@@ -107,6 +107,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
       + [Hypercolumns for Object Segmentation and Fine-grained Localization](http://openaccess.thecvf.com/content_cvpr_2015/papers/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.pdf)
       + [Weakly supervised semantic segmentation for social images](http://openaccess.thecvf.com/content_cvpr_2015/papers/Zhang_Weakly_Supervised_Semantic_2015_CVPR_paper.pdf)
       + [Scene Labeling with LSTM Recurrent Neural Networks](http://openaccess.thecvf.com/content_cvpr_2015/papers/Byeon_Scene_Labeling_With_2015_CVPR_paper.pdf)
+      + [Learning to Propose Objects](http://openaccess.thecvf.com/content_cvpr_2015/papers/Krahenbuhl_Learning_to_Propose_2015_CVPR_paper.pdf)  [[PyTorch](https://github.com/philkr/lpo)] [[Project](http://vladlen.info/publications/learning-to-propose-objects/)]
       
    - ICCV 2015
       + [Semantic Image Segmentation via Deep Parsing Network](http://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Semantic_Image_Segmentation_ICCV_2015_paper.pdf)
@@ -186,13 +187,6 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + [Inria Aerial Image](https://project.inria.fr/aerialimagelabeling/)
 
 
-## Papers and Code (Older list)
-
-  
-- Learning to Propose Objects
-
-  + http://vladlen.info/publications/learning-to-propose-objects/ 
-  + https://github.com/philkr/lpo
   
 
 
