@@ -1,9 +1,8 @@
-# Semantic Segmentation
-- [ ] Screen width (integer) 
-- [x] Service worker support 
-- [x] Fetch support 
-- [ ] CSS flexbox support 
-- [ ] Custom elements
+# Segmentation
+- [ ] Semantic Segmenation 
+- [x] Instance Segmentation 
+- [x] Panoptic Segmentation 
+- [x] Video Segmentation 
 ## 2018
   - CVPR 2018 
       + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
