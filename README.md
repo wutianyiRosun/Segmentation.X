@@ -120,9 +120,9 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - ArXiv  
       + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561) 
     
-### 2014
-   + [Simultaneous Detection and Segmentation](https://arxiv.org/abs/1407.1808) [ECCV]
-   + [Nonparametric Scene Parsing via Label Transfer](http://people.csail.mit.edu/celiu/LabelTransfer/code.html)
+### Before 2015
+   + [Simultaneous Detection and Segmentation](https://arxiv.org/abs/1407.1808) [ECCV2014]
+   + [Nonparametric Scene Parsing via Label Transfer](http://people.csail.mit.edu/celiu/pdfs/LabelTransferTPAMI.pdf) [TPAMI2011][[Project](http://people.csail.mit.edu/celiu/LabelTransfer/code.html)] 
    
    
 #### Repos
