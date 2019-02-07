@@ -92,6 +92,9 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
        + [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408)[NIPSW]
        + [Speeding up Semantic Segmentation for Autonomous Driving]()[NIPSW]
        
+   - ArXiv 
+       + [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147)
+       
 ### 2015
    - CVPR 2015 
       + [Fully Convolutional Networks for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
@@ -104,8 +107,10 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
       + [Learning deconvolution network for semantic segmentation](http://openaccess.thecvf.com/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
    
    - Other 15'conferences  
-      + [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)[ MICCAI]
+      + [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)[MICCAI]
       
+   - ArXiv  
+      + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561) 
       
 ## Instance Segmentation
 
@@ -115,9 +120,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 
 
 ### Semantic segmentation
-- U-Net [https://arxiv.org/pdf/1505.04597.pdf]
-	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
-- SegNet [https://arxiv.org/pdf/1511.00561.pdf]
+
 - DeepLab [https://arxiv.org/pdf/1606.00915.pdf]
 	+ https://github.com/isht7/pytorch-deeplab-resnet [PyTorch]
 	+ https://github.com/bermanmaxim/jaccardSegment [PyTorch]
