@@ -93,6 +93,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - Other 16'conferences
        + [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408) [NIPSW]
        + [Speeding up Semantic Segmentation for Autonomous Driving]() [NIPSW]
+       + [ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation](https://arxiv.org/abs/1511.07053) [PyTorch]( https://github.com/Wizaron/reseg-pytorch)
        + [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) [ICLR] [PyTorch](https://github.com/fyu/drn#semantic-image-segmentataion)
        
    - ArXiv 
@@ -123,6 +124,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - DeepMask [https://arxiv.org/pdf/1506.06204.pdf]
    - SharpMask [https://arxiv.org/pdf/1603.08695.pdf]
    - Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
+   - [Recurrent Instance Segmentation](https://arxiv.org/abs/1511.08250) [ECCV2016]
    
 ## Panoptic Segmentation
    - [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
@@ -131,10 +133,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 	
 ## RNN
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
-- ReSeg [https://arxiv.org/pdf/1511.07053.pdf]
-  + https://github.com/Wizaron/reseg-pytorch [PyTorch]
-- RIS [https://arxiv.org/pdf/1511.08250.pdf]
-  
+
 ## Graphical Models (CRF, MRF)
   + https://github.com/cvlab-epfl/densecrf
   + http://vladlen.info/publications/efficient-inference-in-fully-connected-crfs-with-gaussian-edge-potentials/
