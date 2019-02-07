@@ -4,7 +4,7 @@
 - [x] Panoptic Segmentation 
 - [x] Video Segmentation 
 >## 2018
->>  - CVPR 2018 
+  - CVPR 2018 
       + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
       + [Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Context_Contrasted_Feature_CVPR_2018_paper.pdf)
       + [Recurrent Scene Parsing with Perspective Understanding in the Loop](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0534.pdf)
@@ -14,7 +14,7 @@
       + [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bulo_In-Place_Activated_BatchNorm_CVPR_2018_paper.pdf)
       + [Error Correction for Dense Semantic Image Labeling](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Huang_Error_Correction_for_CVPR_2018_paper.pdf)
       
->>   - ECCV 2018 
+   - ECCV 2018 
       + [Multi-Scale Context Intertwining for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
       + [Unified Perceptual Parsing for Scene Understanding](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tete_Xiao_Unified_Perceptual_Parsing_ECCV_2018_paper.pdf)
       + [ExFuse: Enhancing Feature Fusion for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenli_Zhang_ExFuse_Enhancing_Feature_ECCV_2018_paper.pdf)
@@ -25,7 +25,7 @@
       + [Adaptive Affinity Fields for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jyh-Jing_Hwang_Adaptive_Affinity_Field_ECCV_2018_paper.pdf)
       + [Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liang-Chieh_Chen_Encoder-Decoder_with_Atrous_ECCV_2018_paper.pdf)
     
->>   - Other 18'conferences
+   - Other 18'conferences
       + [RelationNet: Learning Deep-Aligned Representation for Semantic Image Segmentation](https://ieeexplore.ieee.org/document/8545708) [ICPR]
       + [High Resolution Feature Recovering for Accelerating Urban Scene Parsing](https://www.ijcai.org/proceedings/2018/0161.pdf) [IJCAI]
       + [Mix-and-Match Tuning for Self-Supervised Semantic Segmentation](https://arxiv.org/abs/1712.00661) [AAAI]
@@ -35,7 +35,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [DifNet: Semantic Segmentation by Diffusion Networks](https://papers.nips.cc/paper/7435-difnet-semantic-segmentation-by-diffusion-networks.pdf) [NIPS]
       + [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction.pdf) [NIPS]
       
->>   - ArXiv
+   - ArXiv
       + [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://arxiv.org/abs/1812.01593)
       + [Evaluating Bayesian Deep Learning Methods for Semantic Segmentation](https://arxiv.org/abs/1811.12709)
       + [Graph-Based Global Reasoning Networks](https://arxiv.org/abs/1811.12814)
@@ -49,7 +49,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/pdf/1811.08201.pdf)
       + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf)
   
-## 2017
+> ## 2017
    - CVPR 2017 
       + [Convolutional RandomWalk Networks for Semantic Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bertasius_Convolutional_Random_Walk_CVPR_2017_paper.pdf)
       + [Dilated Residual Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Dilated_Residual_Networks_CVPR_2017_paper.pdf)
@@ -76,7 +76,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
    - ArXiv  
        + [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)
       
-## 2016
+> ## 2016
    - CVPR 2016 
        + [Semantic Image Segmentation with Task-Specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform](http://openaccess.thecvf.com/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf)
    - ECCV 2016 
