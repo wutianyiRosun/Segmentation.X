@@ -1,11 +1,11 @@
 # Segmentation
-- [ ] [Semantic Segmenation](#semantic-segmentation) 
-- [x] Instance Segmentation 
+- [ ] [Semantic Segmentation](#semantic-segmentation) 
+- [x] [Instance Segmentation] (#instance-segmentation) 
 - [x] Panoptic Segmentation 
 - [x] Video Segmentation 
 
 
-##  [Semantic Segmenation] (#semantic-segmentation) 
+##  Semantic Segmentation
 ### 2018
   - CVPR 2018 
       + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
@@ -103,7 +103,8 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
       + [Semantic Image Segmentation via Deep Parsing Network](http://openaccess.thecvf.com/content_iccv_2015/papers/Liu_Semantic_Image_Segmentation_ICCV_2015_paper.pdf)
       + [Learning deconvolution network for semantic segmentation](http://openaccess.thecvf.com/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
       
-      
+## Instance Segmentation
+
 ### Semantic segmentation
 - U-Net [https://arxiv.org/pdf/1505.04597.pdf]
 	+ https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
