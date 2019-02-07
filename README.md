@@ -67,7 +67,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
        + [Semi Supervised Semantic Segmentation Using Generative Adversarial Network](http://openaccess.thecvf.com/content_ICCV_2017/papers/Souly__Semi_Supervised_ICCV_2017_paper.pdf)
        + [Scale-adaptive Convolutions for Scene Parsing](http://openaccess.thecvf.com/content_ICCV_2017/papers/Zhang_Scale-Adaptive_Convolutions_for_ICCV_2017_paper.pdf)
        + [Predicting Deeper into the Future of Semantic Segmentation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Luc_Predicting_Deeper_Into_ICCV_2017_paper.pdf)
-       + [Segmentation-Aware Convolutional Networks Using Local Attention MaskS](http://openaccess.thecvf.com/content_ICCV_2017/papers/Harley_Segmentation-Aware_Convolutional_Networks_ICCV_2017_paper.pdf)
+       + [Segmentation-Aware Convolutional Networks Using Local Attention Mask](http://openaccess.thecvf.com/content_ICCV_2017/papers/Harley_Segmentation-Aware_Convolutional_Networks_ICCV_2017_paper.pdf)
        + [Dense and Low-Rank Gaussian CRFs Using Deep Embeddings Siddhartha](http://openaccess.thecvf.com/content_ICCV_2017/papers/Chandra_Dense_and_Low-Rank_ICCV_2017_paper.pdf)
        + [FoveaNet: Perspective-aware Urban Scene Parsing](http://openaccess.thecvf.com/content_ICCV_2017/papers/Li_FoveaNet_Perspective-Aware_Urban_ICCV_2017_paper.pdf)
       
@@ -86,7 +86,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
        + [Semantic Image Segmentation with Task-Specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform](http://openaccess.thecvf.com/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf)
    - ECCV 2016 
        + [Semantic Object Parsing with Graph LSTM](https://arxiv.org/abs/1603.07063)
-       + [Attention to Scale: Scale-aware Semantic Image Segmentation Liang-Chieh](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Attention_to_Scale_CVPR_2016_paper.pdf)
+       + [Attention to Scale: Scale-aware Semantic Image Segmentation](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Chen_Attention_to_Scale_CVPR_2016_paper.pdf)
        + [Efficient Piecewise Training of Deep Structured Models for Semantic
 Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficient_Piecewise_Training_CVPR_2016_paper.pdf)
 
@@ -117,20 +117,27 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
       
    - ArXiv  
       + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561) 
-      
+    
+#### Repos
+  + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
+  + https://github.com/meetshah1995/pytorch-semseg [PyTorch]
+  
 ## Instance Segmentation
-   - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
-   - MNC [https://arxiv.org/pdf/1512.04412.pdf]
-   - DeepMask [https://arxiv.org/pdf/1506.06204.pdf]
-   - SharpMask [https://arxiv.org/pdf/1603.08695.pdf]
-   - Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
+   - [Learning to Segment Object Candidates](https://arxiv.org/abs/1506.06204)
    - [Recurrent Instance Segmentation](https://arxiv.org/abs/1511.08250) [ECCV2016]
-   
+   - [Instance-aware Semantic Segmentation via Multi-task Network Cascades](https://arxiv.org/abs/1512.04412)
+   - [Learning to Refine Object Segments](https://arxiv.org/abs/1603.08695)
+   - [Fully Convolutional Instance-aware Semantic Segmentation](https://arxiv.org/abs/1611.07709)
+   - [Mask R-CNN](https://arxiv.org/abs/1703.06870)
+  
 ## Panoptic Segmentation
    - [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
    
 ## Video Segmentation
-	
+    + https://github.com/shelhamer/clockwork-fcn
+    + https://github.com/JingchunCheng/Seg-with-SPN
+    
+    
 ## RNN
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
 
@@ -149,7 +156,6 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + https://github.com/lucasb-eyer/pydensecrf
 
 ## Datasets:
-
   + [Stanford Background Dataset](http://dags.stanford.edu/projects/scenedataset.html)
   + [Sift Flow Dataset](http://people.csail.mit.edu/celiu/SIFTflow/)
   + [Barcelona Dataset](http://www.cs.unc.edu/~jtighe/Papers/ECCV10/)
@@ -172,18 +178,6 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + [Pratheepan Dataset](http://cs-chan.com/downloads_skin_dataset.html)
   + [Clothing Co-Parsing (CCP) Dataset](https://github.com/bearpaw/clothing-co-parsing)
   + [Inria Aerial Image](https://project.inria.fr/aerialimagelabeling/)
-
-## Repos
-  + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
-  + https://github.com/meetshah1995/pytorch-semseg [PyTorch]
- 
-
- 
-
-
-## Video segmentation
-  + https://github.com/shelhamer/clockwork-fcn
-  + https://github.com/JingchunCheng/Seg-with-SPN
 
 
 ## Papers and Code (Older list)
