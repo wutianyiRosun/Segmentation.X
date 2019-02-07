@@ -79,6 +79,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
        + [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/abs/1611.09326)[CVPRW]
    - ArXiv  
        + [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)
+       + [Pixel Deconvolutional Networks](https://arxiv.org/abs/1705.06820)
       
 ### 2016
    - CVPR 2016 
@@ -97,6 +98,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - ArXiv 
        + [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147)
        + [PixelNet: Towards a General Pixel-level Architecture](https://arxiv.org/abs/1609.06694)
+       + [MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving](https://arxiv.org/abs/1612.07695)
        
 ### 2015
    - CVPR 2015 
@@ -121,33 +123,12 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - DeepMask [https://arxiv.org/pdf/1506.06204.pdf]
    - SharpMask [https://arxiv.org/pdf/1603.08695.pdf]
    - Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
+   
 ## Panoptic Segmentation
-
+   - [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
+   
 ## Video Segmentation
-
-
-### Semantic segmentation
-
-- DeepLab [https://arxiv.org/pdf/1606.00915.pdf]
-	+ https://github.com/isht7/pytorch-deeplab-resnet [PyTorch]
-	+ https://github.com/bermanmaxim/jaccardSegment [PyTorch]
-
-
-
-- ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf]
-
-	+ [] [PyTorch](https://github.com/fyu/drn#semantic-image-segmentataion)
-	+ https://github.com/hangzhaomit/semantic-segmentation-pytorch [PyTorch]
-
 	
-- MultiNet [https://arxiv.org/pdf/1612.07695.pdf]
-	+ https://github.com/MarvinTeichmann/MultiNet
-	+ https://github.com/MarvinTeichmann/KittiSeg
-
-- PixelDCN [https://arxiv.org/pdf/1705.06820.pdf]
-	
-
-  
 ## RNN
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
 - ReSeg [https://arxiv.org/pdf/1511.07053.pdf]
@@ -193,19 +174,10 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + [Clothing Co-Parsing (CCP) Dataset](https://github.com/bearpaw/clothing-co-parsing)
   + [Inria Aerial Image](https://project.inria.fr/aerialimagelabeling/)
 
-## Benchmarks
+## Repos
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
   + https://github.com/meetshah1995/pytorch-semseg [PyTorch]
  
-## Annotation Tools:
-
-  + https://github.com/AKSHAYUBHAT/ImageSegmentation
-  + https://github.com/kyamagu/js-segment-annotator
-  + https://github.com/CSAILVision/LabelMeAnnotationTool
-  + https://github.com/seanbell/opensurfaces-segmentation-ui
-  + https://github.com/lzx1413/labelImgPlus
-  + https://github.com/wkentaro/labelme
-
 
  
 - Papers:
