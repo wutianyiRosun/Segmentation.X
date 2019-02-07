@@ -1,6 +1,6 @@
 # Segmentation
 - [ ] [Semantic Segmentation](#semantic-segmentation) 
-- [x] [Instance Segmentation] (#instance-segmentation) 
+- [x] [Instance Segmentation](#instance-segmentation) 
 - [x] Panoptic Segmentation 
 - [x] Video Segmentation 
 
