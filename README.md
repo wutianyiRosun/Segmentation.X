@@ -3,7 +3,10 @@
 - [x] Instance Segmentation 
 - [x] Panoptic Segmentation 
 - [x] Video Segmentation 
->## 2018
+
+
+> Semantic Segmenation 
+>>## 2018
   - CVPR 2018 
       + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
       + [Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Context_Contrasted_Feature_CVPR_2018_paper.pdf)
@@ -49,7 +52,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/pdf/1811.08201.pdf)
       + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf)
   
-> ## 2017
+>> ## 2017
    - CVPR 2017 
       + [Convolutional RandomWalk Networks for Semantic Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bertasius_Convolutional_Random_Walk_CVPR_2017_paper.pdf)
       + [Dilated Residual Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Dilated_Residual_Networks_CVPR_2017_paper.pdf)
