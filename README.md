@@ -114,10 +114,16 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    
    - Other 15'conferences  
       + [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597)[MICCAI]
+      + [Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation](https://papers.nips.cc/paper/5858-decoupled-deep-neural-network-for-semi-supervised-semantic-segmentation)[NIPS]
       
    - ArXiv  
       + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561) 
     
+### 2014
+   + [Simultaneous Detection and Segmentation](https://arxiv.org/abs/1407.1808) [ECCV]
+   + [Nonparametric Scene Parsing via Label Transfer](http://people.csail.mit.edu/celiu/LabelTransfer/code.html)
+   
+   
 #### Repos
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
   + https://github.com/meetshah1995/pytorch-semseg [PyTorch]
@@ -182,23 +188,13 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 
 ## Papers and Code (Older list)
 
-- Simultaneous detection and segmentation
-
-  + http://www.eecs.berkeley.edu/Research/Projects/CS/vision/shape/sds/
-  + https://github.com/bharath272/sds_eccv2014
-  
-- Decoupled Deep Neural Network for Semi-supervised Semantic Segmentation
-
-  + https://github.com/HyeonwooNoh/DecoupledNet
   
 - Learning to Propose Objects
 
   + http://vladlen.info/publications/learning-to-propose-objects/ 
   + https://github.com/philkr/lpo
   
-- Nonparametric Scene Parsing via Label Transfer
 
-  + http://people.csail.mit.edu/celiu/LabelTransfer/code.html
 
 ## Blog posts, other:
 
