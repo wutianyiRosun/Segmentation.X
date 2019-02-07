@@ -5,8 +5,8 @@
 - [x] Video Segmentation 
 
 
-> Semantic Segmenation 
->>## 2018
+##  Semantic Segmenation 
+### 2018
   - CVPR 2018 
       + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
       + [Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Context_Contrasted_Feature_CVPR_2018_paper.pdf)
@@ -52,7 +52,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/pdf/1811.08201.pdf)
       + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf)
   
->> ## 2017
+### 2017
    - CVPR 2017 
       + [Convolutional RandomWalk Networks for Semantic Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bertasius_Convolutional_Random_Walk_CVPR_2017_paper.pdf)
       + [Dilated Residual Networks](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_Dilated_Residual_Networks_CVPR_2017_paper.pdf)
@@ -79,7 +79,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
    - ArXiv  
        + [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)
       
-> ## 2016
+### 2016
    - CVPR 2016 
        + [Semantic Image Segmentation with Task-Specific Edge Detection Using CNNs and a Discriminatively Trained Domain Transform](http://openaccess.thecvf.com/content_cvpr_2016/papers/Chen_Semantic_Image_Segmentation_CVPR_2016_paper.pdf)
    - ECCV 2016 
@@ -92,7 +92,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
        + [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408)[NIPSW]
        + [Speeding up Semantic Segmentation for Autonomous Driving]()[NIPSW]
        
-## 2015
+### 2015
    - CVPR 2015 
       + [Fully Convolutional Networks for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2015/papers/Long_Fully_Convolutional_Networks_2015_CVPR_paper.pdf)
       + [Hypercolumns for Object Segmentation and Fine-grained Localization](http://openaccess.thecvf.com/content_cvpr_2015/papers/Hariharan_Hypercolumns_for_Object_2015_CVPR_paper.pdf)
