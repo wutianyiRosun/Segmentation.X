@@ -1,8 +1,8 @@
 # Segmentation
 - [ ] [Semantic Segmentation](#semantic-segmentation) 
 - [x] [Instance Segmentation](#instance-segmentation) 
-- [x] Panoptic Segmentation 
-- [x] Video Segmentation 
+- [x] [Panoptic Segmentation](#panoptic-segmentation) 
+- [x] [Video Segmentation](#video-Segmentation)
 
 
 ##  Semantic Segmentation
@@ -104,6 +104,11 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
       + [Learning deconvolution network for semantic segmentation](http://openaccess.thecvf.com/content_iccv_2015/papers/Noh_Learning_Deconvolution_Network_ICCV_2015_paper.pdf)
       
 ## Instance Segmentation
+
+## Panoptic Segmentation
+
+## Video Segmentation
+
 
 ### Semantic segmentation
 - U-Net [https://arxiv.org/pdf/1505.04597.pdf]
