@@ -76,6 +76,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
        + [Learning Affinity via Spatial Propagation Networks](https://papers.nips.cc/paper/6750-learning-affinity-via-spatial-propagation-networks.pdf)[NIPS]
        + [Dual Path Networks](https://papers.nips.cc/paper/7033-dual-path-networks.pdf)[NIPS]
        + [Semantic Segmentation with Reverse Attention](https://arxiv.org/abs/1707.06426)[BMVC]
+       + [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/abs/1611.09326)[CVPRW]
    - ArXiv  
        + [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)
       
@@ -89,11 +90,13 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
 Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficient_Piecewise_Training_CVPR_2016_paper.pdf)
 
    - Other 16'conferences
-       + [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408)[NIPSW]
-       + [Speeding up Semantic Segmentation for Autonomous Driving]()[NIPSW]
+       + [Semantic Segmentation using Adversarial Networks](https://arxiv.org/abs/1611.08408) [NIPSW]
+       + [Speeding up Semantic Segmentation for Autonomous Driving]() [NIPSW]
+       + [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) [ICLR] [PyTorch](https://github.com/fyu/drn#semantic-image-segmentataion)
        
    - ArXiv 
        + [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147)
+       + [PixelNet: Towards a General Pixel-level Architecture](https://arxiv.org/abs/1609.06694)
        
 ### 2015
    - CVPR 2015 
@@ -113,7 +116,11 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
       + [SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation](https://arxiv.org/abs/1511.00561) 
       
 ## Instance Segmentation
-
+   - FCIS [https://arxiv.org/pdf/1611.07709.pdf]
+   - MNC [https://arxiv.org/pdf/1512.04412.pdf]
+   - DeepMask [https://arxiv.org/pdf/1506.06204.pdf]
+   - SharpMask [https://arxiv.org/pdf/1603.08695.pdf]
+   - Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
 ## Panoptic Segmentation
 
 ## Video Segmentation
@@ -124,14 +131,12 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 - DeepLab [https://arxiv.org/pdf/1606.00915.pdf]
 	+ https://github.com/isht7/pytorch-deeplab-resnet [PyTorch]
 	+ https://github.com/bermanmaxim/jaccardSegment [PyTorch]
-- ENet [https://arxiv.org/pdf/1606.02147.pdf]
-- LinkNet [https://arxiv.org/pdf/1707.03718.pdf]
-- Tiramisu [https://arxiv.org/pdf/1611.09326.pdf]
-- DilatedNet [https://arxiv.org/pdf/1511.07122.pdf]
-- PixelNet [https://arxiv.org/pdf/1609.06694.pdf]
+
+
+
 - ERFNet [http://www.robesafe.uah.es/personal/eduardo.romera/pdfs/Romera17iv.pdf]
-- Dilated convolution [https://arxiv.org/pdf/1511.07122.pdf]
-	+ https://github.com/fyu/drn#semantic-image-segmentataion [PyTorch]
+
+	+ [] [PyTorch](https://github.com/fyu/drn#semantic-image-segmentataion)
 	+ https://github.com/hangzhaomit/semantic-segmentation-pytorch [PyTorch]
 
 	
@@ -141,12 +146,6 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 
 - PixelDCN [https://arxiv.org/pdf/1705.06820.pdf]
 	
-### Instance aware segmentation
-- FCIS [https://arxiv.org/pdf/1611.07709.pdf]
-- MNC [https://arxiv.org/pdf/1512.04412.pdf]
-- DeepMask [https://arxiv.org/pdf/1506.06204.pdf]
-- SharpMask [https://arxiv.org/pdf/1603.08695.pdf]
-- Mask-RCNN [https://arxiv.org/pdf/1703.06870.pdf]
 
   
 ## RNN
