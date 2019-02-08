@@ -139,6 +139,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   
 ## Panoptic Segmentation
    - [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
+   - [Single Network Panoptic Segmentation for Street Scene Understanding](https://arxiv.org/pdf/1902.02678.pdf)
    
 ## Video Segmentation
     + https://github.com/shelhamer/clockwork-fcn
