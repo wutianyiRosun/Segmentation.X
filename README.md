@@ -100,6 +100,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
        + [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147)
        + [PixelNet: Towards a General Pixel-level Architecture](https://arxiv.org/abs/1609.06694)
        + [MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving](https://arxiv.org/abs/1612.07695)
+       + [High-performance Semantic Segmentation Using Very Deep Fully Convolutional Networks](https://arxiv.org/abs/1604.04339)
        
 ### 2015
    - CVPR 2015 
