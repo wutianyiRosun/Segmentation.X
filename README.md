@@ -6,6 +6,12 @@
 
 
 ##  Semantic Segmentation
+
+### 2019 
+  - arXiv
+      + [Fast-SCNN: Fast Semantic Segmentation Network](https://arxiv.org/abs/1902.04502)
+      + [THE EFFECT OF SCENE CONTEXT ON WEAKLY SUPERVISED SEMANTIC SEGMENTATION](https://arxiv.org/pdf/1902.04356.pdf)
+      + [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/abs/1902.04049)
 ### 2018
   - CVPR 2018 
       + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
@@ -51,7 +57,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [OCNet: Object Context Network for Scene Parsing](https://arxiv.org/abs/1809.00916)
       + [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/pdf/1811.08201.pdf)
       + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf)
-  
+      
 ### 2017
    - CVPR 2017 
       + [Convolutional RandomWalk Networks for Semantic Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Bertasius_Convolutional_Random_Walk_CVPR_2017_paper.pdf)
