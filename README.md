@@ -151,6 +151,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - [DeeperLab: Single-Shot Image Parser](https://arxiv.org/abs/1902.05093)
    
 ## Video Segmentation
+   - [Clockwork Convnets for Video Semantic Segmentation](https://people.eecs.berkeley.edu/~jhoffman/papers/clockwork-fcn-eccvw16.pdf) (ECCV2016)
     + https://github.com/shelhamer/clockwork-fcn
     + https://github.com/JingchunCheng/Seg-with-SPN
     
