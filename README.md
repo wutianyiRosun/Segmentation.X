@@ -3,6 +3,7 @@
 - [x] [Instance Segmentation](#instance-segmentation) 
 - [x] [Panoptic Segmentation](#panoptic-segmentation) 
 - [x] [Video Segmentation](#video-Segmentation)
+- [x] [Saliency　detection](#saliency-detection)
 
 
 ##  Semantic Segmentation
@@ -155,7 +156,9 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - [Clockwork Convnets for Video Semantic Segmentation](https://people.eecs.berkeley.edu/~jhoffman/papers/clockwork-fcn-eccvw16.pdf) (ECCV2016)
    - https://github.com/shelhamer/clockwork-fcn
    - https://github.com/JingchunCheng/Seg-with-SPN
-    
+
+## Saliency Detection
+   - [Contextual Encoder-Decoder Network for Visual Saliency Prediction](https://arxiv.org/abs/1902.06634)
     
 ## RNN
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
