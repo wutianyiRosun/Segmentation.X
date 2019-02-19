@@ -3,7 +3,7 @@
 - [x] [Instance Segmentation](#instance-segmentation) 
 - [x] [Panoptic Segmentation](#panoptic-segmentation) 
 - [x] [Video Segmentation](#video-Segmentation)
-- [x] [Saliency　detection](#saliency-detection)
+- [x] [Saliency Detection](#saliency-detection)
 
 
 ##  Semantic Segmentation
