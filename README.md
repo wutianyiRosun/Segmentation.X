@@ -154,6 +154,10 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    
 ## Video Segmentation
    - [Clockwork Convnets for Video Semantic Segmentation](https://people.eecs.berkeley.edu/~jhoffman/papers/clockwork-fcn-eccvw16.pdf) (ECCV2016)
+   - [Actor and Action Video Segmentation from a Sentence (http://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf) (CVPR2018)
+   - [Dynamic Video Segmentation Network](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Dynamic_Video_Segmentation_CVPR_2018_paper.pdf) (CVPR2018)
+   - [Semantic Video Segmentation by Gated Recurrent Flow Propagation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nilsson_Semantic_Video_Segmentation_CVPR_2018_paper.pdf) (CVPR2018)
+   - [Deep Spatio-Temporal Random Fields for Efficient Video Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chandra_Deep_Spatio-Temporal_Random_CVPR_2018_paper.pdf) (CVPR2018)
    - https://github.com/shelhamer/clockwork-fcn
    - https://github.com/JingchunCheng/Seg-with-SPN
 
