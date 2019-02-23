@@ -10,7 +10,7 @@
 
 ### 2019 
   - arXiv
-  　　 + [An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions](https://arxiv.org/abs/1902.07476)
+      + [An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions](https://arxiv.org/abs/1902.07476)
       + [Fast-SCNN: Fast Semantic Segmentation Network](https://arxiv.org/abs/1902.04502)
       + [THE EFFECT OF SCENE CONTEXT ON WEAKLY SUPERVISED SEMANTIC SEGMENTATION](https://arxiv.org/pdf/1902.04356.pdf)
       + [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/abs/1902.04049)
