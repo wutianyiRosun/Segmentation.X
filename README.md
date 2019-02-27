@@ -105,7 +105,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
        + [Speeding up Semantic Segmentation for Autonomous Driving]() [NIPSW]
        + [ReSeg: A Recurrent Neural Network-based Model for Semantic Segmentation](https://arxiv.org/abs/1511.07053) [[PyTorch]( https://github.com/Wizaron/reseg-pytorch)]
        + [Multi-Scale Context Aggregation by Dilated Convolutions](https://arxiv.org/abs/1511.07122) [ICLR] [[PyTorch](https://github.com/fyu/drn#semantic-image-segmentataion)]
-       + [Learning Dense Convolutional Embeddings for Semantic Segmentation](https://arxiv.org/abs/1511.04377)
+       + [Learning Dense Convolutional Embeddings for Semantic Segmentation](https://arxiv.org/abs/1511.04377)[ICLR]
        
    - ArXiv 
        + [ENet: A Deep Neural Network Architecture for Real-Time Semantic Segmentation](https://arxiv.org/abs/1606.02147)
