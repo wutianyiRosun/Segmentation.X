@@ -135,6 +135,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 ### Before 2015
    + [Simultaneous Detection and Segmentation](https://arxiv.org/abs/1407.1808) [ECCV2014]
    + [Nonparametric Scene Parsing via Label Transfer](http://people.csail.mit.edu/celiu/pdfs/LabelTransferTPAMI.pdf) [TPAMI2011][[Project](http://people.csail.mit.edu/celiu/LabelTransfer/code.html)] 
+   + [Dense Segmentation-aware Descriptors](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Trulls_Dense_Segmentation-Aware_Descriptors_2013_CVPR_paper.pdf)[CVPR2013]
    
    
 #### Repos
