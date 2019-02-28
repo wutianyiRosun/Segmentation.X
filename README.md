@@ -10,7 +10,7 @@
 
 ### 2019 
   - CVPR 2019
-      + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference (https://arxiv.org/abs/1902.10421)
+      + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
       
   - arXiv
       + [An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions](https://arxiv.org/abs/1902.07476)
