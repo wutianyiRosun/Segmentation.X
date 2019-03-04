@@ -30,6 +30,7 @@
       + [In-Place Activated BatchNorm for Memory-Optimized Training of DNNs](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bulo_In-Place_Activated_BatchNorm_CVPR_2018_paper.pdf)
       + [Error Correction for Dense Semantic Image Labeling](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Huang_Error_Correction_for_CVPR_2018_paper.pdf)
       + [Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Revisiting_Dilated_Convolution_CVPR_2018_paper.pdf)
+      + [Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bilinski_Dense_Decoder_Shortcut_CVPR_2018_paper.pdf)
       
    - ECCV 2018 
       + [Multi-Scale Context Intertwining for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
