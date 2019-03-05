@@ -77,6 +77,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [Pyramid Scene Parsing Network](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhao_Pyramid_Scene_Parsing_CVPR_2017_paper.pdf)
       + [Full-Resolution Residual Networks for Semantic Segmentation in Street Scenes](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pohlen_Full-Resolution_Residual_Networks_CVPR_2017_paper.pdf)
       + [Refinenet: Multi-path refinement networks for high-resolution semantic segmentation](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lin_RefineNet_Multi-Path_Refinement_CVPR_2017_paper.pdf)
+      + [Gated Feedback Refinement Network for Dense Image Labeling](http://openaccess.thecvf.com/content_cvpr_2017/papers/Islam_Gated_Feedback_Refinement_CVPR_2017_paper.pdf)
      
    - ICCV 2017 
        + [Deep Dual Learning for Semantic Image Segmentation](http://openaccess.thecvf.com/content_ICCV_2017/papers/Luo_Deep_Dual_Learning_ICCV_2017_paper.pdf)
