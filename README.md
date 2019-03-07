@@ -12,6 +12,8 @@
   - CVPR 2019
       + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
       + [Data augmentation using learned transforms for one-shot medical image segmentation](https://arxiv.org/abs/1902.09383)
+      + [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/abs/1903.02351)
+       
       
   - arXiv
       + [Adaptive Masked Weight Imprinting for Few-Shot Segmentation](https://arxiv.org/abs/1902.11123)
