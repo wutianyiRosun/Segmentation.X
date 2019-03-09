@@ -14,7 +14,8 @@
       + [Data augmentation using learned transforms for one-shot medical image segmentation](https://arxiv.org/abs/1902.09383)
       + [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/abs/1903.02351)
       + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120)
-       
+  - others
+      +[CE-Net: Context Encoder Network for 2D Medical Image Segmentation](https://arxiv.org/abs/1903.02740)(TMI)
       
   - arXiv
       + [Adaptive Masked Weight Imprinting for Few-Shot Segmentation](https://arxiv.org/abs/1902.11123)
@@ -22,6 +23,7 @@
       + [Fast-SCNN: Fast Semantic Segmentation Network](https://arxiv.org/abs/1902.04502)
       + [THE EFFECT OF SCENE CONTEXT ON WEAKLY SUPERVISED SEMANTIC SEGMENTATION](https://arxiv.org/pdf/1902.04356.pdf)
       + [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/abs/1902.04049)
+    
 ### 2018
   - CVPR 2018 
       + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
