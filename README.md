@@ -14,8 +14,8 @@
       + [Data augmentation using learned transforms for one-shot medical image segmentation](https://arxiv.org/abs/1902.09383)
       + [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/abs/1903.02351)
       + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120)
-  - others
-      + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation](https://arxiv.org/abs/1903.02740)(TMI)
+  - other 19'conferences
+      + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation](https://arxiv.org/abs/1903.02740) [TMI]
       
   - arXiv
       + [Adaptive Masked Weight Imprinting for Few-Shot Segmentation](https://arxiv.org/abs/1902.11123)
