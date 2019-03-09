@@ -178,6 +178,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 
 ## Saliency Detection
    - [Contextual Encoder-Decoder Network for Visual Saliency Prediction](https://arxiv.org/abs/1902.06634)
+   - [Understanding and Visualizing Deep Visual Saliency Models](https://arxiv.org/abs/1903.02501) (CVPR2019)
     
 ## RNN
 - ReNet [https://arxiv.org/pdf/1505.00393.pdf]
