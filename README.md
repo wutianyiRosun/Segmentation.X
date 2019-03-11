@@ -224,7 +224,8 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 
 
   
-
+## other papers
+  + [Ranked List Loss for Deep Metric Learning](https://arxiv.org/pdf/1903.03238.pdf) [CVPR2019]
 
 ## Blog posts, other:
 
