@@ -10,6 +10,7 @@
 
 ### 2019 
   - CVPR 2019
+      + [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/1903.04197)
       + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
       + [Data augmentation using learned transforms for one-shot medical image segmentation](https://arxiv.org/abs/1902.09383)
       + [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/abs/1903.02351)
@@ -227,6 +228,11 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 ## other papers
   + [Ranked List Loss for Deep Metric Learning](https://arxiv.org/abs/1903.03238) [CVPR2019]
   + [Video Generation from Single Semantic Label Map](https://arxiv.org/abs/1903.04480) [CVPR2019]
+  + [Refine and Distill: Exploiting Cycle-Inconsistency and Knowledge Distillation for Unsupervised Monocular Depth Estimation](https://arxiv.org/abs/1903.04202) [CVPR2019]
+  + [Sliced Wasserstein Discrepancy for Unsupervised Domain Adaptation](https://arxiv.org/abs/1903.04064)
+  + [Group-wise Correlation Stereo Network](https://arxiv.org/abs/1903.04025) [CVPR2019]
+  + [Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks](https://arxiv.org/abs/1903.03878) [CVPR2019]
+  + [Similarity Learning via Kernel Preserving Embedding](https://arxiv.org/abs/1903.04235) [AAAI2019]
 
 ## Blog posts, other:
 
