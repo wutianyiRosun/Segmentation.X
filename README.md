@@ -225,7 +225,8 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 
   
 ## other papers
-  + [Ranked List Loss for Deep Metric Learning](https://arxiv.org/pdf/1903.03238.pdf) [CVPR2019]
+  + [Ranked List Loss for Deep Metric Learning](https://arxiv.org/abs/1903.03238) [CVPR2019]
+  + [Video Generation from Single Semantic Label Map](https://arxiv.org/abs/1903.04480) [CVPR2019]
 
 ## Blog posts, other:
 
