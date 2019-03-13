@@ -168,7 +168,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - [Panoptic Segmentation](https://arxiv.org/abs/1801.00868)
    - [Single Network Panoptic Segmentation for Street Scene Understanding](https://arxiv.org/pdf/1902.02678.pdf)
    - [DeeperLab: Single-Shot Image Parser](https://arxiv.org/abs/1902.05093)
-   
+   - [An End-to-End Network for Panoptic Segmentation](https://arxiv.org/abs/1903.05027)
 ## Video Segmentation
    - [Clockwork Convnets for Video Semantic Segmentation](https://people.eecs.berkeley.edu/~jhoffman/papers/clockwork-fcn-eccvw16.pdf) (ECCV2016)
    - [Actor and Action Video Segmentation from a Sentence ](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf) (CVPR2018)
