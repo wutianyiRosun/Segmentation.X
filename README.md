@@ -10,7 +10,7 @@
 
 ### 2019 
   - CVPR 2019
-      + [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688) [CVPR2019]
+      + [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688) 
       + [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/1903.04197)
       + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
       + [Data augmentation using learned transforms for one-shot medical image segmentation](https://arxiv.org/abs/1902.09383)
