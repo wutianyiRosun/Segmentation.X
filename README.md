@@ -10,6 +10,7 @@
 
 ### 2019 
   - CVPR 2019
+      + [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688) [CVPR2019]
       + [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/1903.04197)
       + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
       + [Data augmentation using learned transforms for one-shot medical image segmentation](https://arxiv.org/abs/1902.09383)
@@ -25,6 +26,7 @@
       + [THE EFFECT OF SCENE CONTEXT ON WEAKLY SUPERVISED SEMANTIC SEGMENTATION](https://arxiv.org/abs/1902.04356)
       + [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/abs/1902.04049)
       + [On Boosting Semantic Street Scene Segmentation with Weak Supervision](https://arxiv.org/abs/1903.03462)
+      
     
 ### 2018
   - CVPR 2018 
