@@ -235,7 +235,10 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + [Group-wise Correlation Stereo Network](https://arxiv.org/abs/1903.04025) [CVPR2019]
   + [Scene Memory Transformer for Embodied Agents in Long-Horizon Tasks](https://arxiv.org/abs/1903.03878) [CVPR2019]
   + [Similarity Learning via Kernel Preserving Embedding](https://arxiv.org/abs/1903.04235) [AAAI2019]
-
+  + [Unsupervised Person Re-identification by Soft Multilabel Learning](https://arxiv.org/abs/1903.06325) [CVPR2019]
+  + [Learning Robust Representations by Projecting Superficial Statistics Out](https://arxiv.org/abs/1903.06256) [ICLR2019]
+  + [MFAS: Multimodal Fusion Architecture Search](https://arxiv.org/abs/1903.06496) [CVPR2019]
+  + [SimulCap : Single-View Human Performance Capture with Cloth Simulation](https://arxiv.org/abs/1903.06323) [CVPR2019]
 ## Blog posts, other:
 
   + https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
