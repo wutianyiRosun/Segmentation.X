@@ -10,6 +10,7 @@
 
 ### 2019 
   - CVPR 2019
+      + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
       + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120)
       + [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688) 
       + [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/1903.04197)
@@ -243,6 +244,9 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + [MFAS: Multimodal Fusion Architecture Search](https://arxiv.org/abs/1903.06496) [CVPR2019]
   + [SimulCap : Single-View Human Performance Capture with Cloth Simulation](https://arxiv.org/abs/1903.06323) [CVPR2019]
   + [Semantic Image Synthesis with Spatially-Adaptive Normalization](https://arxiv.org/abs/1903.07291) [CVPR2019]
+  + [Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection](https://arxiv.org/abs/1903.07256) [CVPR2019]
+  + [QATM: Quality-Aware Template Matching For Deep Learning](https://arxiv.org/abs/1903.07254) [CVPR2019]
+  + [AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs](https://arxiv.org/abs/1903.07062) [CVPR2019]
 ## Blog posts, other:
 
   + https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
