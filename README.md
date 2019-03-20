@@ -21,6 +21,7 @@
       + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation](https://arxiv.org/abs/1903.02740) [TMI]
       
   - arXiv
+      + [Dynamic Deep Networks for Retinal Vessel Segmentation](https://arxiv.org/abs/1903.07803)
       + [Efficient Smoothing of Dilated Convolutions for Image Segmentation](https://arxiv.org/abs/1903.07992)
       + [Adaptive Masked Weight Imprinting for Few-Shot Segmentation](https://arxiv.org/abs/1902.11123)
       + [An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions](https://arxiv.org/abs/1902.07476)
