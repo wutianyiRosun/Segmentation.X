@@ -247,6 +247,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + [Graph Convolutional Label Noise Cleaner: Train a Plug-and-play Action Classifier for Anomaly Detection](https://arxiv.org/abs/1903.07256) [CVPR2019]
   + [QATM: Quality-Aware Template Matching For Deep Learning](https://arxiv.org/abs/1903.07254) [CVPR2019]
   + [AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs](https://arxiv.org/abs/1903.07062) [CVPR2019]
+  + [Selective Kernel Networks](https://arxiv.org/abs/1903.06586) [CVPR2019]
 ## Blog posts, other:
 
   + https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
