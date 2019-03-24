@@ -10,6 +10,7 @@
 
 ### 2019 
   - CVPR 2019
+      + [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images ](https://arxiv.org/abs/1903.08469)
       + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
       + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120)
       + [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688) 
@@ -249,6 +250,11 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + [QATM: Quality-Aware Template Matching For Deep Learning](https://arxiv.org/abs/1903.07254) [CVPR2019]
   + [AdaGraph: Unifying Predictive and Continuous Domain Adaptation through Graphs](https://arxiv.org/abs/1903.07062) [CVPR2019]
   + [Selective Kernel Networks](https://arxiv.org/abs/1903.06586) [CVPR2019]
+  + [Towards Robust Curve Text Detection with Conditional Spatial Expansion ](https://arxiv.org/abs/1903.08836) [CVPR2019]
+  + [Weakly-Supervised Discovery of Geometry-Aware Representation for 3D Human Pose Estimation ](https://arxiv.org/abs/1903.08839) [CVPR2019]
+  + [Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration](https://arxiv.org/abs/1903.08817) [CVPR2019]
+  + [Networks for Joint Affine and Non-parametric Image Registration ](https://arxiv.org/abs/1903.08811) [CVPR2019]
+  + [OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations ](https://arxiv.org/abs/1903.08550) [CVPR2019]
 ## Blog posts, other:
 
   + https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
