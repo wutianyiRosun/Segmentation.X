@@ -26,6 +26,7 @@
       + [Efficient Smoothing of Dilated Convolutions for Image Segmentation](https://arxiv.org/abs/1903.07992)
       + [Adaptive Masked Weight Imprinting for Few-Shot Segmentation](https://arxiv.org/abs/1902.11123)
       + [An efficient solution for semantic segmentation: ShuffleNet V2 with atrous separable convolutions](https://arxiv.org/abs/1902.07476)
+      + [Lift-the-Flap: Context Reasoning Using Object-Centered Graphs](https://arxiv.org/abs/1902.00163)
       + [Fast-SCNN: Fast Semantic Segmentation Network](https://arxiv.org/abs/1902.04502)
       + [THE EFFECT OF SCENE CONTEXT ON WEAKLY SUPERVISED SEMANTIC SEGMENTATION](https://arxiv.org/abs/1902.04356)
       + [MultiResUNet : Rethinking the U-Net Architecture for Multimodal Biomedical Image Segmentation](https://arxiv.org/abs/1902.04049)
