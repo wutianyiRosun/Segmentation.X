@@ -159,7 +159,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    + [Simultaneous Detection and Segmentation](https://arxiv.org/abs/1407.1808) [ECCV2014]
    + [Nonparametric Scene Parsing via Label Transfer](http://people.csail.mit.edu/celiu/pdfs/LabelTransferTPAMI.pdf) [TPAMI2011][[Project](http://people.csail.mit.edu/celiu/LabelTransfer/code.html)] 
    + [Dense Segmentation-aware Descriptors](https://www.cv-foundation.org/openaccess/content_cvpr_2013/papers/Trulls_Dense_Segmentation-Aware_Descriptors_2013_CVPR_paper.pdf)[CVPR2013]
-   
+   + [Semantic Segmentation with Second-Order Pooling](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.423.3707&rep=rep1&type=pdf) [ECCV2012]
    
 #### Repos
   + https://github.com/ZijunDeng/pytorch-semantic-segmentation [PyTorch]
