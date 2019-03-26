@@ -109,6 +109,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
        + [Dual Path Networks](https://papers.nips.cc/paper/7033-dual-path-networks.pdf)[NIPS]
        + [Semantic Segmentation with Reverse Attention](https://arxiv.org/abs/1707.06426)[BMVC]
        + [The One Hundred Layers Tiramisu: Fully Convolutional DenseNets for Semantic Segmentation](https://arxiv.org/abs/1611.09326)[CVPRW]
+       + [Fully Convolutional Networks for Semantic Segmentation](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7478072) [TPAMI]
    - ArXiv  
        + [Rethinking Atrous Convolution for Semantic Image Segmentation](https://arxiv.org/abs/1706.05587)
        + [Pixel Deconvolutional Networks](https://arxiv.org/abs/1705.06820)
