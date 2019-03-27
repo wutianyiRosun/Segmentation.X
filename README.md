@@ -10,6 +10,7 @@
 
 ### 2019 
   - CVPR 2019
+      + [Large-scale interactive object segmentation with human annotators ](https://arxiv.org/abs/1903.10830)
       + [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images ](https://arxiv.org/abs/1903.08469)
       + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
       + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120)
@@ -257,6 +258,9 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + [Dual Residual Networks Leveraging the Potential of Paired Operations for Image Restoration](https://arxiv.org/abs/1903.08817) [CVPR2019]
   + [Networks for Joint Affine and Non-parametric Image Registration ](https://arxiv.org/abs/1903.08811) [CVPR2019]
   + [OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations ](https://arxiv.org/abs/1903.08550) [CVPR2019]
+  + [Semantic Alignment: Finding Semantically Consistent Ground-truth for Facial Landmark Detection ](https://arxiv.org/abs/1903.10661) [CVPR2019]
+  + [Scale-Adaptive Neural Dense Features: Learning via Hierarchical Context Aggregation ](https://arxiv.org/abs/1903.10427) [CVPR2019]
+  
 ## Blog posts, other:
 
   + https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
