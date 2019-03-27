@@ -261,6 +261,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + [OCGAN: One-class Novelty Detection Using GANs with Constrained Latent Representations ](https://arxiv.org/abs/1903.08550) [CVPR2019]
   + [Semantic Alignment: Finding Semantically Consistent Ground-truth for Facial Landmark Detection ](https://arxiv.org/abs/1903.10661) [CVPR2019]
   + [Scale-Adaptive Neural Dense Features: Learning via Hierarchical Context Aggregation ](https://arxiv.org/abs/1903.10427) [CVPR2019]
+  + [f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning](https://arxiv.org/abs/1903.10132) [CVPR2019]
   
 ## Blog posts, other:
 
