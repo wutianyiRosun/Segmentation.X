@@ -24,6 +24,8 @@
       + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation](https://arxiv.org/abs/1903.02740) [TMI]
       
   - arXiv
+      + [Residual Pyramid Learning for Single-Shot Semantic Segmentation](https://arxiv.org/abs/1903.09746)
+      + [What Synthesis is Missing: Depth Adaptation Integrated with Weak Supervision for Indoor Scene Parsing](https://arxiv.org/pdf/1903.09781.pdf)
       + [Dynamic Deep Networks for Retinal Vessel Segmentation](https://arxiv.org/abs/1903.07803)
       + [Efficient Smoothing of Dilated Convolutions for Image Segmentation](https://arxiv.org/abs/1903.07992)
       + [Adaptive Masked Weight Imprinting for Few-Shot Segmentation](https://arxiv.org/abs/1902.11123)
@@ -262,7 +264,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + [Semantic Alignment: Finding Semantically Consistent Ground-truth for Facial Landmark Detection ](https://arxiv.org/abs/1903.10661) [CVPR2019]
   + [Scale-Adaptive Neural Dense Features: Learning via Hierarchical Context Aggregation ](https://arxiv.org/abs/1903.10427) [CVPR2019]
   + [f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning](https://arxiv.org/abs/1903.10132) [CVPR2019]
-  
+  + [Residual Non-local Attention Networks for Image Restoration ](https://arxiv.org/pdf/1903.10082.pdf) [ICLR2019]
 ## Blog posts, other:
 
   + https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
