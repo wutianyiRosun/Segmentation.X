@@ -24,6 +24,7 @@
       + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation](https://arxiv.org/abs/1903.02740) [TMI]
       
   - arXiv
+      + [Deep Co-Training for Semi-Supervised Image Segmentation ](https://arxiv.org/pdf/1903.11233.pdf)
       + [Residual Pyramid Learning for Single-Shot Semantic Segmentation](https://arxiv.org/abs/1903.09746)
       + [What Synthesis is Missing: Depth Adaptation Integrated with Weak Supervision for Indoor Scene Parsing](https://arxiv.org/pdf/1903.09781.pdf)
       + [Dynamic Deep Networks for Retinal Vessel Segmentation](https://arxiv.org/abs/1903.07803)
