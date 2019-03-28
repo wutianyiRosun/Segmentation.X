@@ -183,22 +183,29 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - [Single Network Panoptic Segmentation for Street Scene Understanding](https://arxiv.org/pdf/1902.02678.pdf)
    - [DeeperLab: Single-Shot Image Parser](https://arxiv.org/abs/1902.05093)
    - [An End-to-End Network for Panoptic Segmentation](https://arxiv.org/abs/1903.05027)
+   
 ## Video Segmentation
-   - [Clockwork Convnets for Video Semantic Segmentation](https://people.eecs.berkeley.edu/~jhoffman/papers/clockwork-fcn-eccvw16.pdf) (ECCV2016)
+### 2018
+   - CVPR 2018 
+   
    - [Actor and Action Video Segmentation from a Sentence ](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf) (CVPR2018)
    - [Dynamic Video Segmentation Network](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Dynamic_Video_Segmentation_CVPR_2018_paper.pdf) (CVPR2018)
    - [Semantic Video Segmentation by Gated Recurrent Flow Propagation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nilsson_Semantic_Video_Segmentation_CVPR_2018_paper.pdf) (CVPR2018)
    - [Deep Spatio-Temporal Random Fields for Efficient Video Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chandra_Deep_Spatio-Temporal_Random_CVPR_2018_paper.pdf) (CVPR2018)
    - [Low-Latency Video Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Low-Latency_Video_Semantic_CVPR_2018_paper.pdf) (CVPR2018)
    - [CNN in MRF: Video Object Segmentation via Inference in A CNN-Based Higher-Order Spatio-Temporal MRF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bao_CNN_in_MRF_CVPR_2018_paper.pdf) (CVPR2018)
-   - [Efficient Video Object Segmentation via Network Modulation]
-   - [Instance Embedding Transfer to Unsupervised Video Object Segmentation]
-   - [Fast Video Object Segmentation by Reference-Guided Mask Propagation]
-   - [Fast and Accurate Online Video Object Segmentation via Tracking Parts](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_Fast_and_Accurate_CVPR_2018_paper.pdf) [code](https://github.com/JingchunCheng/FAVOS)
+   - [Efficient Video Object Segmentation via Network Modulation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Efficient_Video_Object_CVPR_2018_paper.pdf)
+   - [Instance Embedding Transfer to Unsupervised Video Object Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Instance_Embedding_Transfer_CVPR_2018_paper.pdf)
+   - [Fast Video Object Segmentation by Reference-Guided Mask Propagation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Oh_Fast_Video_Object_CVPR_2018_paper.pdf)
+   - [Fast and Accurate Online Video Object Segmentation via Tracking Parts](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_Fast_and_Accurate_CVPR_2018_paper.pdf) [[code](https://github.com/JingchunCheng/FAVOS)]
    - [Reinforcement Cutting-Agent Learning for Video Object Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Han_Reinforcement_Cutting-Agent_Learning_CVPR_2018_paper.pdf)
    - [Blazingly Fast Video Object Segmentation With Pixel-Wise Metric Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chen_Blazingly_Fast_Video_CVPR_2018_paper.pdf)
    - [MoNet: Deep Motion Exploitation for Video Object Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gou_MoNet_Moments_Embedding_CVPR_2018_paper.pdf)
    - [Motion-Guided Cascaded Refinement Network for Video Object Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hu_Motion-Guided_Cascaded_Refinement_CVPR_2018_paper.pdf)
+   
+   
+   - [Clockwork Convnets for Video Semantic Segmentation](https://people.eecs.berkeley.edu/~jhoffman/papers/clockwork-fcn-eccvw16.pdf) (ECCV2016)
+   
    - https://github.com/shelhamer/clockwork-fcn
    - https://github.com/JingchunCheng/Seg-with-SPN
    - http://segmentation.is.tue.mpg.de/
