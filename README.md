@@ -265,6 +265,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
   + [Scale-Adaptive Neural Dense Features: Learning via Hierarchical Context Aggregation ](https://arxiv.org/abs/1903.10427) [CVPR2019]
   + [f-VAEGAN-D2: A Feature Generating Framework for Any-Shot Learning](https://arxiv.org/abs/1903.10132) [CVPR2019]
   + [Residual Non-local Attention Networks for Image Restoration ](https://arxiv.org/pdf/1903.10082.pdf) [ICLR2019]
+  + [Self-Supervised Learning via Conditional Motion Propagation](https://arxiv.org/abs/1903.11412) [CVPR2019]
 ## Blog posts, other:
 
   + https://handong1587.github.io/deep_learning/2015/10/09/segmentation.html
