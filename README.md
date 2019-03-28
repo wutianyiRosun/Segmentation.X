@@ -187,10 +187,9 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
 ## Video Segmentation
 ### 2018
    - CVPR 2018 
-   
-   - [Actor and Action Video Segmentation from a Sentence ](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf) (CVPR2018)
-   - [Dynamic Video Segmentation Network](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Dynamic_Video_Segmentation_CVPR_2018_paper.pdf) (CVPR2018)
-   - [Semantic Video Segmentation by Gated Recurrent Flow Propagation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nilsson_Semantic_Video_Segmentation_CVPR_2018_paper.pdf) (CVPR2018)
+      + [Actor and Action Video Segmentation from a Sentence ](http://openaccess.thecvf.com/content_cvpr_2018/papers/Gavrilyuk_Actor_and_Action_CVPR_2018_paper.pdf) (CVPR2018)
+      + [Dynamic Video Segmentation Network](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_Dynamic_Video_Segmentation_CVPR_2018_paper.pdf) (CVPR2018)
+      + [Semantic Video Segmentation by Gated Recurrent Flow Propagation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Nilsson_Semantic_Video_Segmentation_CVPR_2018_paper.pdf) (CVPR2018)
    - [Deep Spatio-Temporal Random Fields for Efficient Video Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chandra_Deep_Spatio-Temporal_Random_CVPR_2018_paper.pdf) (CVPR2018)
    - [Low-Latency Video Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Low-Latency_Video_Semantic_CVPR_2018_paper.pdf) (CVPR2018)
    - [CNN in MRF: Video Object Segmentation via Inference in A CNN-Based Higher-Order Spatio-Temporal MRF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bao_CNN_in_MRF_CVPR_2018_paper.pdf) (CVPR2018)
