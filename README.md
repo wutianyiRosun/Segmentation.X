@@ -191,6 +191,7 @@ Segmentation](http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_Efficien
    - [Deep Spatio-Temporal Random Fields for Efficient Video Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Chandra_Deep_Spatio-Temporal_Random_CVPR_2018_paper.pdf) (CVPR2018)
    - https://github.com/shelhamer/clockwork-fcn
    - https://github.com/JingchunCheng/Seg-with-SPN
+   - http://segmentation.is.tue.mpg.de/
 
 ## Saliency Detection
    - [Contextual Encoder-Decoder Network for Visual Saliency Prediction](https://arxiv.org/abs/1902.06634)
