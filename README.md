@@ -22,6 +22,7 @@
       + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120)
   - other 19'conferences
       + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation](https://arxiv.org/abs/1903.02740) [TMI]
+      + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf) [ICME]
       
   - arXiv
       + [Deep Co-Training for Semi-Supervised Image Segmentation ](https://arxiv.org/pdf/1903.11233.pdf)
@@ -39,10 +40,14 @@
       
     
 ### 2018
-  - CVPR 2018 
+　  - CVPR 2018 
+      + [Compassionately Conservative Balanced Cuts for Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cahill_Compassionately_Conservative_Balanced_CVPR_2018_paper.pdf) 
+      + [icient interactive annotation of segmentation datasets with polygon rnn++](http://openaccess.thecvf.com/content_cvpr_2018/papers/Acuna_Efficient_Interactive_Annotation_CVPR_2018_paper.pdf) [[code](https://github.com/fidler-lab/polyrnn-pp)]
+      + [Guided Proofreading of Automatic Segmentations for Connectomics](http://openaccess.thecvf.com/content_cvpr_2018/papers/Haehn_Guided_Proofreading_of_CVPR_2018_paper.pdf)
       + [DenseASPP for Semantic Segmentation in StreetScenes](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_DenseASPP_for_Semantic_CVPR_2018_paper.pdf)
       + [Context Contrasted Feature and Gated Multi-scale Aggregation for Scene Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ding_Context_Contrasted_Feature_CVPR_2018_paper.pdf)
       + [Recurrent Scene Parsing with Perspective Understanding in the Loop](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/0534.pdf)
+      + [PAD-Net: Multi-Tasks Guided Prediction-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing](http://openaccess.thecvf.com/content_cvpr_2018/papers/Xu_PAD-Net_Multi-Tasks_Guided_CVPR_2018_paper.pdf)
       + [Learning a Discriminative Feature Network for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Yu_Learning_a_Discriminative_CVPR_2018_paper.pdf)
       + [Context Encoding for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Context_Encoding_for_CVPR_2018_paper.pdf)
       + [Dynamic-structured Semantic Propagation Network](http://openaccess.thecvf.com/content_cvpr_2018/papers/Liang_Dynamic-Structured_Semantic_Propagation_CVPR_2018_paper.pdf)
@@ -50,8 +55,19 @@
       + [Error Correction for Dense Semantic Image Labeling](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w14/Huang_Error_Correction_for_CVPR_2018_paper.pdf)
       + [Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Revisiting_Dilated_Convolution_CVPR_2018_paper.pdf)
       + [Dense Decoder Shortcut Connections for Single-Pass Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Bilinski_Dense_Decoder_Shortcut_CVPR_2018_paper.pdf)
-      
-   - ECCV 2018 
+      + [On the Importance of Label Quality for Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zlateski_On_the_Importance_CVPR_2018_paper.pdf)
+      + [Referring Image Segmentation via Recurrent Refinement Networks](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Referring_Image_Segmentation_CVPR_2018_paper.pdf) [From NLP] [[code](https://github.com/liruiyu/referseg_rrn)]
+      + [Learning Superpixels with Segmentation-Aware Affinity Loss](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tu_Learning_Superpixels_With_CVPR_2018_paper.pdf) [Superpixel seg]
+      + [Weakly and Semi Supervised Human Body Part Parsing via Pose-Guided Knowledge Transfer](http://openaccess.thecvf.com/content_cvpr_2018/papers/Fang_Weakly_and_Semi_CVPR_2018_paper.pdf) [Human Part Seg]  [[code](https://github.com/MVIG-SJTU/WSHP)]
+      + [Multi-Evidence Filtering and Fusion for Multi-Label Classification, Object Detection and Semantic Segmentation Based on Weakly Supervised Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ge_Multi-Evidence_Filtering_and_CVPR_2018_paper.pdf) [WSL]
+      + [Learning Pixel-Level Semantic Affinity With Image-Level Supervision for Weakly Supervised Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Ahn_Learning_Pixel-Level_Semantic_CVPR_2018_paper.pdf) [WSL]
+      + [Weakly-Supervised Semantic Segmentation Network With Deep Seeded Region Growing](http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) [WSL]
+      + [Revisiting Dilated Convolution: A Simple Approach for Weakly- and Semi-Supervised Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wei_Revisiting_Dilated_Convolution_CVPR_2018_paper.pdf) [WSL]
+      + [Bootstrapping the Performance of Webly Supervised Semantic Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Shen_Bootstrapping_the_Performance_CVPR_2018_paper.pdf) [WSL]
+      + [Normalized Cut Loss for Weakly-Supervised CNN Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Normalized_Cut_Loss_CVPR_2018_paper.pdf)  [WSL]
+      + [Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) [WSL]
+      + [Weakly Supervised Instance Segmentation Using Class Peak Response](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf) [WSL]
+  - ECCV 2018 
       + [Multi-Scale Context Intertwining for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
       + [Unified Perceptual Parsing for Scene Understanding](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tete_Xiao_Unified_Perceptual_Parsing_ECCV_2018_paper.pdf)
       + [ExFuse: Enhancing Feature Fusion for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenli_Zhang_ExFuse_Enhancing_Feature_ECCV_2018_paper.pdf)
@@ -66,16 +82,17 @@
       + [RelationNet: Learning Deep-Aligned Representation for Semantic Image Segmentation](https://ieeexplore.ieee.org/document/8545708) [ICPR]
       + [High Resolution Feature Recovering for Accelerating Urban Scene Parsing](https://www.ijcai.org/proceedings/2018/0161.pdf) [IJCAI]
       + [Mix-and-Match Tuning for Self-Supervised Semantic Segmentation](https://arxiv.org/abs/1712.00661) [AAAI]
-      + [Spatial As Deep: Spatial CNN for Traffic Scene Understanding
-Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
+      + [Spatial As Deep: Spatial CNN for Traffic Scene Understanding Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [A Probabilistic U-Net for Segmentation of Ambiguous Images](https://papers.nips.cc/paper/7928-a-probabilistic-u-net-for-segmentation-of-ambiguous-images.pdf) [NIPS]
       + [DifNet: Semantic Segmentation by Diffusion Networks](https://papers.nips.cc/paper/7435-difnet-semantic-segmentation-by-diffusion-networks.pdf) [NIPS]
-      + [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction.pdf) [NIPS]
+      + [Beyond Grids: Learning Graph Representations for Visual Recognition](https://papers.nips.cc/paper/8135-beyond-grids-learning-graph-representations-for-visual-recognition) [NIPS] [GCN]
+      + [Symbolic Graph Reasoning Meets Convolutions](https://papers.nips.cc/paper/7456-symbolic-graph-reasoning-meets-convolutions) [NIPS] [GCN]
+      + [A^2-Nets: Double Attention Networks](https://papers.nips.cc/paper/7318-a2-nets-double-attention-networks.pdf) [NIPS] [GCN]
+      + [Searching for Efficient Multi-Scale Architectures for Dense Image Prediction](https://papers.nips.cc/paper/8087-searching-for-efficient-multi-scale-architectures-for-dense-image-prediction.pdf) [NIPS] [NAS]
       
    - ArXiv
       + [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://arxiv.org/abs/1812.01593)
       + [Evaluating Bayesian Deep Learning Methods for Semantic Segmentation](https://arxiv.org/abs/1811.12709)
-      + [Graph-Based Global Reasoning Networks](https://arxiv.org/abs/1811.12814)
       + [ShelfNet for Real-time Semantic Segmentation, Multi-path segmentation network](https://arxiv.org/abs/1811.11254)
       + [CCNet: Criss-Cross Attention for Semantic Segmentation](https://arxiv.org/abs/1811.11721)
       + [Dual Attention Network for Scene Segmentation](https://arxiv.org/abs/1809.02983)
@@ -84,7 +101,7 @@ Xingang](https://arxiv.org/abs/1712.06080) [AAAI]
       + [RTSEG: REAL-TIME SEMANTIC SEGMENTATION COMPARATIVE STUDY](https://arxiv.org/abs/1803.02758)
       + [OCNet: Object Context Network for Scene Parsing](https://arxiv.org/abs/1809.00916)
       + [CGNet: A Light-weight Context Guided Network for Semantic Segmentation](https://arxiv.org/pdf/1811.08201.pdf)
-      + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf)
+     
       
 ### 2017
    - CVPR 2017 
