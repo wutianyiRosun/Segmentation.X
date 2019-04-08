@@ -67,6 +67,7 @@
       + [Normalized Cut Loss for Weakly-Supervised CNN Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Tang_Normalized_Cut_Loss_CVPR_2018_paper.pdf)  [WSL]
       + [Weakly-Supervised Semantic Segmentation by Iteratively Mining Common Object Features](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Weakly-Supervised_Semantic_Segmentation_CVPR_2018_paper.pdf) [WSL]
       + [Weakly Supervised Instance Segmentation Using Class Peak Response](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhou_Weakly_Supervised_Instance_CVPR_2018_paper.pdf) [WSL]
+     
   - ECCV 2018 
       + [Multi-Scale Context Intertwining for Semantic Segmentation](http://openaccess.thecvf.com/content_ECCV_2018/papers/Di_Lin_Multi-Scale_Context_Intertwining_ECCV_2018_paper.pdf)
       + [Unified Perceptual Parsing for Scene Understanding](http://openaccess.thecvf.com/content_ECCV_2018/papers/Tete_Xiao_Unified_Perceptual_Parsing_ECCV_2018_paper.pdf)
