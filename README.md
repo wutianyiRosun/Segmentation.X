@@ -40,7 +40,7 @@
       
     
 ### 2018
-　  - CVPR 2018 
+　 - CVPR 2018 
       + [Compassionately Conservative Balanced Cuts for Image Segmentation](http://openaccess.thecvf.com/content_cvpr_2018/papers/Cahill_Compassionately_Conservative_Balanced_CVPR_2018_paper.pdf) 
       + [icient interactive annotation of segmentation datasets with polygon rnn++](http://openaccess.thecvf.com/content_cvpr_2018/papers/Acuna_Efficient_Interactive_Annotation_CVPR_2018_paper.pdf) [[code](https://github.com/fidler-lab/polyrnn-pp)]
       + [Guided Proofreading of Automatic Segmentations for Connectomics](http://openaccess.thecvf.com/content_cvpr_2018/papers/Haehn_Guided_Proofreading_of_CVPR_2018_paper.pdf)
