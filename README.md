@@ -40,7 +40,7 @@
       + [Large-scale interactive object segmentation with human annotators ](https://arxiv.org/abs/1903.10830)
       + [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images ](https://arxiv.org/abs/1903.08469)
       + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
-      + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120) [[code](https://github.com/LinZhuoChen/DUpsampling（非官方）)]
+      + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120) [[code](https://github.com/LinZhuoChen/DUpsampling)]
       + [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688) 
       + [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/1903.04197)
       + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
