@@ -10,20 +10,63 @@
 
 ### 2019 
   - CVPR 2019
+      + [Object-aware Aggregation with Bidirectional Temporal Graph for Video Captioning](https://arxiv.org/pdf/1906.04375.pdf)
+      + [Pattern-Affinitive Propagation across Depth, Surface Normal and Semantic Segmentation ](https://arxiv.org/pdf/1906.03525.pdf)
+      + [Cross-Modal Relationship Inference for Grounding Referring Expressions](https://arxiv.org/pdf/1906.04464.pdf)
+      + [Face Parsing with RoI Tanh-Warping](https://arxiv.org/pdf/1906.01342.pdf)
+      + [Speech2Face: Learning the Face Behind a Voice](https://arxiv.org/pdf/1905.09773.pdf)
+      + [Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images ](https://arxiv.org/pdf/1905.06368.pdf) [[code](https://github.com/chenwydj/ultra_high_resolution_segmentation)]
+      + [Budget-aware Semi-Supervised Semantic and Instance Segmentation ](https://arxiv.org/pdf/1905.05880.pdf) [Workshop]
+      + [DARNet: Deep Active Ray Network for Building Segmentation ](https://arxiv.org/pdf/1905.05889.pdf)
+  　　 + [Zoom To Learn, Learn To Zoom ](https://arxiv.org/pdf/1905.05169.pdf)
+      + [A Simple Pooling-Based Design for Real-Time Salient Object Detection](https://arxiv.org/pdf/1904.09569.pdf)
+      + [Pyramid Feature Attention Network for Saliency detection](https://arxiv.org/pdf/1903.00179.pdf) [[code](https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection)]
+      + [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) [[code](https://github.com/MenghaoGuo/AutoDeeplab)]
+      + [Generating Classification Weights with GNN Denoising Autoencoders for Few-Shot Learning](https://arxiv.org/pdf/1905.01102.pdf)  [[code](https://github.com/gidariss/wDAE_GNN_FewShot)]
+      + [SCOPS: Self-Supervised Co-Part Segmentation](https://arxiv.org/pdf/1905.01298.pdf)
+      + [Panoptic Feature Pyramid Networks](https://arxiv.org/pdf/1901.02446.pdf)
+      + [Representation Similarity Analysis for Efficient Task taxonomy & Transfer Learning](https://arxiv.org/pdf/1904.11740.pdf) [[code](https://github.com/StanfordVL/taskonomy)]
+      + [Student Becoming the Master: Knowledge Amalgamation for Joint Scene Parsing, Depth Estimation, and More](https://arxiv.org/pdf/1904.10167.pdf)
+      + [Data-Driven Neuron Allocation for Scale Aggregation Networks](https://arxiv.org/pdf/1904.09460.pdf)
+      + [Bi-Directional Cascade Network for Perceptual Edge Detection](https://arxiv.org/abs/1902.10903) [[code](https://github.com/pkuCactus/BDCN)]
+      + [Scale-Adaptive Neural Dense Features: Learning via Hierarchical Context Aggregation](https://arxiv.org/abs/1903.10427)
+      + [DFANet: Deep Feature Aggregation for Real-Time Semantic Segmentation](https://arxiv.org/abs/1904.02216)
+      + [Devil is in the Edges: Learning Semantic Boundaries from Noisy Annotations](https://arxiv.org/pdf/1904.07934.pdf)
+      + [Adaptive Weighting Multi-Field-of-View CNN for Semantic Segmentation in Pathology](https://arxiv.org/pdf/1904.06040.pdf)
+      + [Pixel-Adaptive Convolutional Neural Networks](https://arxiv.org/pdf/1904.05373.pdf)
+      + [A Relation-Augmented Fully Convolutional Network for Semantic Segmentation in Aerial Scenes](https://arxiv.org/pdf/1904.05730.pdf)
+      + [Cross-Modal Self-Attention Network for Referring Image Segmentation](https://arxiv.org/pdf/1904.04745.pdf) [From NLP]
+      + [Graphonomy: Universal Human Parsing via Graph Transfer Learning](https://arxiv.org/pdf/1904.04536.pdf) [[code](https://github.com/Gaoyiminggithub/Graphonomy)]
       + [Large-scale interactive object segmentation with human annotators ](https://arxiv.org/abs/1903.10830)
       + [In Defense of Pre-trained ImageNet Architectures for Real-time Semantic Segmentation of Road-driving Images ](https://arxiv.org/abs/1903.08469)
       + [A Cross-Season Correspondence Dataset for Robust Semantic Segmentation](https://arxiv.org/abs/1903.06916)
-      + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120)
+      + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120) [[code](https://github.com/LinZhuoChen/DUpsampling（非官方）)]
       + [Knowledge Adaptation for Efficient Semantic Segmentation](https://arxiv.org/abs/1903.04688) 
       + [Structured Knowledge Distillation for Semantic Segmentation](https://arxiv.org/abs/1903.04197)
       + [FickleNet: Weakly and Semi-supervised Semantic Image Segmentation using Stochastic Inference](https://arxiv.org/abs/1902.10421)
       + [Data augmentation using learned transforms for one-shot medical image segmentation](https://arxiv.org/abs/1902.09383)
-      + [CANet: Class-Agnostic Segmentation Networks with Iterative Refinement and Attentive Few-Shot Learning](https://arxiv.org/abs/1903.02351)
       + [Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation](https://arxiv.org/abs/1903.02120)
+      + [Graph-Based Global Reasoning Networks](https://arxiv.org/abs/1811.12814) [GCN]
+      + [T-Net: Parametrizing Fully Convolutional Nets with a Single High-Order Tensor](https://arxiv.org/pdf/1904.02698.pdf) [Face Part Seg]
+      + [Improving Semantic Segmentation via Video Propagation and Label Relaxation](https://arxiv.org/abs/1812.01593)
   - other 19'conferences
       + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation](https://arxiv.org/abs/1903.02740) [TMI]
       + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf) [ICME]
-      
+  - ICCV 2019
+      + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/pdf/1907.10008.pdf) [ICCV2019]
+      + [Asymmetric Non-local Neural Networks for Semantic Segmentation](http://xxx.itp.ac.cn/pdf/1908.07678v1) [[code](https://github.com/ MendelXu/ANN.git)]
+      + [Exploiting temporal consistency for real-time video depth estimation∗](http://xxx.itp.ac.cn/pdf/1908.03706)
+      + [Action recognition with spatial-temporal discriminative filter banks](http://xxx.itp.ac.cn/pdf/1908.07625)
+      + [Temporal Knowledge Propagation for Image-to-Video Person Re-identification](http://xxx.itp.ac.cn/pdf/1908.03885)
+      + [Semi-Supervised Video Salient Object Detection Using Pseudo-Labels](http://xxx.itp.ac.cn/pdf/1908.04051)
+      + [LIP: Local Importance-based Pooling](http://xxx.itp.ac.cn/pdf/1908.04156)
+      + [Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly Supervised Semantic Segmentation](http://xxx.itp.ac.cn/pdf/1908.04501)
+      + [Metric Learning With HORDE: High-Order Regularizer for Deep Embeddings](http://xxx.itp.ac.cn/pdf/1908.02735) [[code](https://github.com/pierre-jacob/ICCV2019-Horde)]
+      + [Similarity-Preserving Knowledge Distillation](https://arxiv.org/pdf/1907.09682.pdf) [ICCV2019]
+      + [Expectation-Maximization Attention Networks for Semantic Segmentation](http://xxx.itp.ac.cn/pdf/1907.13426)
+      + [Orientation-aware Semantic Segmentation on Icosahedron Spheres](http://xxx.itp.ac.cn/pdf/1907.12849)
+      + [Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking](http://xxx.itp.ac.cn/pdf/1908.02231)
+      + [Learning Lightweight Lane Detection CNNs by Self Attention Distillation](http://xxx.itp.ac.cn/pdf/1908.00821) [[code](https://github.com/cardwing/Codes-for-Lane-Detection)]
   - arXiv
       + [Deep Co-Training for Semi-Supervised Image Segmentation ](https://arxiv.org/pdf/1903.11233.pdf)
       + [Residual Pyramid Learning for Single-Shot Semantic Segmentation](https://arxiv.org/abs/1903.09746)
