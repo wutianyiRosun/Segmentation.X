@@ -18,7 +18,7 @@
       + [Collaborative Global-Local Networks for Memory-Efficient Segmentation of Ultra-High Resolution Images ](https://arxiv.org/pdf/1905.06368.pdf) [[code](https://github.com/chenwydj/ultra_high_resolution_segmentation)]
       + [Budget-aware Semi-Supervised Semantic and Instance Segmentation ](https://arxiv.org/pdf/1905.05880.pdf) [Workshop]
       + [DARNet: Deep Active Ray Network for Building Segmentation ](https://arxiv.org/pdf/1905.05889.pdf)
-  　　 + [Zoom To Learn, Learn To Zoom ](https://arxiv.org/pdf/1905.05169.pdf)
+      + [Zoom To Learn, Learn To Zoom](https://arxiv.org/pdf/1905.05169.pdf)
       + [A Simple Pooling-Based Design for Real-Time Salient Object Detection](https://arxiv.org/pdf/1904.09569.pdf)
       + [Pyramid Feature Attention Network for Saliency detection](https://arxiv.org/pdf/1903.00179.pdf) [[code](https://github.com/CaitinZhao/cvpr2019_Pyramid-Feature-Attention-Network-for-Saliency-detection)]
       + [Auto-DeepLab: Hierarchical Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/1901.02985) [[code](https://github.com/MenghaoGuo/AutoDeeplab)]
@@ -53,7 +53,7 @@
       + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation](https://arxiv.org/abs/1903.02740) [TMI]
       + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf) [ICME]
   - ICCV 2019
-      + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/pdf/1907.10008.pdf) [ICCV2019]
+      + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/pdf/1907.10008.pdf) [
       + [Asymmetric Non-local Neural Networks for Semantic Segmentation](http://xxx.itp.ac.cn/pdf/1908.07678v1) [[code](https://github.com/ MendelXu/ANN.git)]
       + [Exploiting temporal consistency for real-time video depth estimation∗](http://xxx.itp.ac.cn/pdf/1908.03706)
       + [Action recognition with spatial-temporal discriminative filter banks](http://xxx.itp.ac.cn/pdf/1908.07625)
@@ -62,7 +62,7 @@
       + [LIP: Local Importance-based Pooling](http://xxx.itp.ac.cn/pdf/1908.04156)
       + [Frame-to-Frame Aggregation of Active Regions in Web Videos for Weakly Supervised Semantic Segmentation](http://xxx.itp.ac.cn/pdf/1908.04501)
       + [Metric Learning With HORDE: High-Order Regularizer for Deep Embeddings](http://xxx.itp.ac.cn/pdf/1908.02735) [[code](https://github.com/pierre-jacob/ICCV2019-Horde)]
-      + [Similarity-Preserving Knowledge Distillation](https://arxiv.org/pdf/1907.09682.pdf) [ICCV2019]
+      + [Similarity-Preserving Knowledge Distillation](https://arxiv.org/pdf/1907.09682.pdf) 
       + [Expectation-Maximization Attention Networks for Semantic Segmentation](http://xxx.itp.ac.cn/pdf/1907.13426)
       + [Orientation-aware Semantic Segmentation on Icosahedron Spheres](http://xxx.itp.ac.cn/pdf/1907.12849)
       + [Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking](http://xxx.itp.ac.cn/pdf/1908.02231)
