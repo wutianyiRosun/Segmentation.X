@@ -53,8 +53,8 @@
       + [CE-Net: Context Encoder Network for 2D Medical Image Segmentation](https://arxiv.org/abs/1903.02740) [TMI]
       + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf) [ICME]
   - ICCV 2019
-      + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/pdf/1907.10008.pdf) [
-      + [Asymmetric Non-local Neural Networks for Semantic Segmentation](http://xxx.itp.ac.cn/pdf/1908.07678v1)[[code(https://github.com/ MendelXu/ANN.git)]
+      + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/pdf/1907.10008.pdf) 
+      + [Asymmetric Non-local Neural Networks for Semantic Segmentation](http://xxx.itp.ac.cn/pdf/1908.07678v1)
       + [Exploiting temporal consistency for real-time video depth estimation∗](http://xxx.itp.ac.cn/pdf/1908.03706)
       + [Action recognition with spatial-temporal discriminative filter banks](http://xxx.itp.ac.cn/pdf/1908.07625)
       + [Temporal Knowledge Propagation for Image-to-Video Person Re-identification](http://xxx.itp.ac.cn/pdf/1908.03885)
@@ -68,6 +68,7 @@
       + [Learning Aberrance Repressed Correlation Filters for Real-Time UAV Tracking](http://xxx.itp.ac.cn/pdf/1908.02231)
       + [Learning Lightweight Lane Detection CNNs by Self Attention Distillation](http://xxx.itp.ac.cn/pdf/1908.00821) [[code](https://github.com/cardwing/Codes-for-Lane-Detection)]
   - arXiv
+      + [Consensus Feature Network for Scene Parsing](https://arxiv.org/abs/1907.12411)
       + [Deep Co-Training for Semi-Supervised Image Segmentation ](https://arxiv.org/pdf/1903.11233.pdf)
       + [Residual Pyramid Learning for Single-Shot Semantic Segmentation](https://arxiv.org/abs/1903.09746)
       + [What Synthesis is Missing: Depth Adaptation Integrated with Weak Supervision for Indoor Scene Parsing](https://arxiv.org/pdf/1903.09781.pdf)
