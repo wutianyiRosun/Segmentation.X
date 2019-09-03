@@ -54,7 +54,7 @@
       + [Tree-structured Kronecker Convolutional Network for Semantic Segmentation](https://arxiv.org/pdf/1812.04945v2.pdf) [ICME]
   - ICCV 2019
       + [Incremental Class Discovery for Semantic Segmentation with RGBD Sensing](https://arxiv.org/pdf/1907.10008.pdf) [
-      + [Asymmetric Non-local Neural Networks for Semantic Segmentation](http://xxx.itp.ac.cn/pdf/1908.07678v1) [[code](https://github.com/ MendelXu/ANN.git)]
+      + [Asymmetric Non-local Neural Networks for Semantic Segmentation](http://xxx.itp.ac.cn/pdf/1908.07678v1)[[code(https://github.com/ MendelXu/ANN.git)]
       + [Exploiting temporal consistency for real-time video depth estimation∗](http://xxx.itp.ac.cn/pdf/1908.03706)
       + [Action recognition with spatial-temporal discriminative filter banks](http://xxx.itp.ac.cn/pdf/1908.07625)
       + [Temporal Knowledge Propagation for Image-to-Video Person Re-identification](http://xxx.itp.ac.cn/pdf/1908.03885)
