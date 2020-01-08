@@ -62,43 +62,42 @@ This repo is developed under the following configurations:
 
 Download the [Cityscapes](https://www.cityscapes-dataset.com/) dataset. It should have this basic structure:
 
-        cityscapes/
-        ├── cityscapes_list
-        │   ├── test.lst
-        │   ├── train.lst
-        │   ├── train+.lst
-        │   ├── train++.lst
-        │   ├── trainval.lst
-        │   └── val.lst
-        ├── gtFine
-        │   ├── test
-        │   ├── train
-        │   └── val
-        ├── leftImg8bit
-        │   ├── test
-        │   ├── train
-        │   └── val
-        ├── license.txt
-        └── README
+      cityscapes/
+      ├── cityscapes_list
+      │   ├── test.lst
+      │   ├── train.lst
+      │   ├── train+.lst
+      │   ├── train++.lst
+      │   ├── trainval.lst
+      │   └── val.lst
+      ├── gtFine
+      │   ├── test
+      │   ├── train
+      │   └── val
+      ├── leftImg8bit
+      │   ├── test
+      │   ├── train
+      │   └── val
+      ├── license.txt
+      └── README
    
  Download Pascal-Context dataset. It should have this basic structure:  
 
-        pascalContext/
-        ├── GroundTruth_trainval_mat
-        ├── GroundTruth_trainval_png
-        ├── JPEGImages
-        ├── pascal_context_train.txt
-        ├── pascal_context_val.txt
-        ├── README.md
-        └── VOCdevkit
+      pascalContext/
+      ├── GroundTruth_trainval_mat
+      ├── GroundTruth_trainval_png
+      ├── JPEGImages
+      ├── pascal_context_train.txt
+      ├── pascal_context_val.txt
+      ├── README.md
+      └── VOCdevkit
 
 
 ### 2. Training
 
-        
-        CUDA_VISIBLE_DEVICES=0,1,2,3 python -m paddle.distributed.launch train.py  --use_gpu --use_mpio \
-                                                   --cfg ./configs/pspnet_res101_cityscapes.yaml | tee -a train.log 2>&1
-        
+      CUDA_VISIBLE_DEVICES=0,1,2,3 python -m paddle.distributed.launch train.py  --use_gpu --use_mpio \
+                                                 --cfg ./configs/pspnet_res101_cityscapes.yaml | tee -a train.log 2>&1
+
 
 ### 3. Testing 
 
