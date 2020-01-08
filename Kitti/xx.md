@@ -95,10 +95,10 @@ Download the [Cityscapes](https://www.cityscapes-dataset.com/) dataset. It shoul
 
 ### 2. Training
 
-        ```Shell
+        
         CUDA_VISIBLE_DEVICES=0,1,2,3 python -m paddle.distributed.launch train.py  --use_gpu --use_mpio \
                                                    --cfg ./configs/pspnet_res101_cityscapes.yaml | tee -a train.log 2>&1
-        ```
+        
 
 ### 3. Testing 
 
